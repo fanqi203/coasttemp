@@ -143,6 +143,40 @@
             background: #1a1a1a;
         }
 
+        /* Legend styles */
+        .legend {
+            position: absolute;
+            bottom: 30px;
+            right: 10px;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+            z-index: 1000;
+            font-size: 13px;
+        }
+
+        .legend h4 {
+            margin: 0 0 10px 0;
+            font-size: 14px;
+            color: #333;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 5px 0;
+        }
+
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            margin-right: 8px;
+            border: 2px solid white;
+            box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
+        }
+
 
 
         /* Custom marker cluster styles */
@@ -175,9 +209,9 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Coastal Water Temperature & Salinity Data Locations</h1>
+            <h2>Coastal Water Temperature & Salinity Data Locations</h2>
             <p class="subtitle">Interactive Map of Temperature & Salinity Monitoring Stations</p>
-            <p class="subtitle">1,181 stations in NC, SC, GA, and FL</p>
+            <p class="subtitle">1,181 stations in NC, SC, GA, and FL; sbao@coastal.edu</p>
         </div>
 
         <div class="map-container">
@@ -189,16 +223,41 @@
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <!-- Marker Cluster Plugin -->
-    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
 
     <script>
         // Extract dataset ID from filename
         function getDatasetId(filename) {
             return filename.replace('_data.csv', '');
         }
+
+        // Determine data source from filename
+        function getDataSource(filename) {
+            const lower = filename.toLowerCase();
+            if (lower.includes('gov_usgs') || lower.includes('usgs')) return 'USGS';
+            if (lower.includes('noaa_nos') || lower.includes('noaa')) return 'NOAA';
+            if (lower.includes('gov_nps')) return 'NPS';
+            if (lower.includes('org_secoora_scdnr')) return 'SCDNR';
+            if (lower.includes('org_secoora_ncsu') || lower.includes('ncsu')) return 'NCSU';
+            if (lower.includes('org_secoora_cmast')) return 'CMAST';
+            if (lower.includes('org_cormp')) return 'CORMP';
+            if (lower.includes('edu_')) return 'University';
+            if (lower.includes('org_secoora')) return 'SECOORA';
+            return 'Other';
+        }
+
+        // Color mapping for data sources
+        const sourceColors = {
+            'USGS': '#E74C3C',        // Red
+            'NOAA': '#3498DB',        // Blue
+            'SECOORA': '#9B59B6',     // Purple
+            'SCDNR': '#2ECC71',       // Green
+            'NCSU': '#E67E22',        // Orange
+            'CMAST': '#1ABC9C',       // Turquoise
+            'CORMP': '#F39C12',       // Yellow-orange
+            'NPS': '#95A5A6',         // Gray
+            'University': '#34495E',  // Dark blue-gray
+            'Other': '#7F8C8D'        // Medium gray
+        };
 
         // Load the locations data
         fetch('locations.json')
@@ -213,40 +272,40 @@
                     maxZoom: 19
                 }).addTo(map);
 
-                // Create marker cluster group
-                const markers = L.markerClusterGroup({
-                    chunkedLoading: true,
-                    spiderfyOnMaxZoom: true,
-                    showCoverageOnHover: false,
-                    zoomToBoundsOnClick: true
-                });
-
-                // Custom icon
-                const customIcon = L.divIcon({
-                    className: 'custom-marker',
-                    html: '<div style="background-color: #667eea; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"></div>',
-                    iconSize: [12, 12],
-                    iconAnchor: [6, 6]
-                });
+                // Count stations by source for legend
+                const sourceCounts = {};
 
                 // Add markers for each location
                 locations.forEach(location => {
-                    const marker = L.marker([location.latitude, location.longitude], {
-                        icon: customIcon
-                    });
-
-                    // Extract dataset ID
                     const datasetId = getDatasetId(location.filename);
                     const displayName = datasetId.replace(/-/g, ' ');
+                    const source = getDataSource(location.filename);
+                    const color = sourceColors[source] || sourceColors['Other'];
+
+                    // Count sources
+                    sourceCounts[source] = (sourceCounts[source] || 0) + 1;
+
+                    // Create colored icon
+                    const icon = L.divIcon({
+                        className: 'custom-marker',
+                        html: `<div style="background-color: ${color}; width: 10px; height: 10px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"></div>`,
+                        iconSize: [10, 10],
+                        iconAnchor: [5, 5]
+                    });
+
+                    const marker = L.marker([location.latitude, location.longitude], { icon: icon });
 
                     // Create download link
                     const downloadCsvUrl = `https://erddap.secoora.org/erddap/tabledap/${datasetId}.csv`;
 
-                    // Create popup content with download button
+                    // Create popup content
                     const popupContent = `
                         <div class="popup-title">${displayName}</div>
                         <div class="popup-coords">
                             📍 ${location.latitude.toFixed(4)}°N, ${Math.abs(location.longitude).toFixed(4)}°W
+                        </div>
+                        <div style="margin: 8px 0; color: ${color}; font-weight: bold;">
+                            ${source}
                         </div>
                         <a href="${downloadCsvUrl}" target="_blank" class="download-btn">
                             ⬇️ Download CSV
@@ -254,17 +313,32 @@
                     `;
 
                     marker.bindPopup(popupContent);
-                    markers.addLayer(marker);
+                    marker.addTo(map);
                 });
 
-                // Add the marker cluster group to the map
-                map.addLayer(markers);
+                // Add legend
+                const legend = L.control({ position: 'bottomright' });
+                legend.onAdd = function () {
+                    const div = L.DomUtil.create('div', 'legend');
+                    div.innerHTML = '<h4>Data Sources</h4>';
 
-                // Fit map to show all markers
-                if (locations.length > 0) {
-                    const bounds = markers.getBounds();
-                    map.fitBounds(bounds, { padding: [50, 50] });
-                }
+                    // Sort sources by count
+                    const sortedSources = Object.entries(sourceCounts)
+                        .sort((a, b) => b[1] - a[1]);
+
+                    sortedSources.forEach(([source, count]) => {
+                        const color = sourceColors[source];
+                        div.innerHTML += `
+                            <div class="legend-item">
+                                <div class="legend-color" style="background-color: ${color};"></div>
+                                <span>${source} (${count})</span>
+                            </div>
+                        `;
+                    });
+
+                    return div;
+                };
+                legend.addTo(map);
             })
             .catch(error => {
                 console.error('Error loading locations:', error);

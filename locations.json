@@ -1,0 +1,5902 @@
+[
+  {
+    "filename": "gov_usgs_nwis_02323592_data.csv",
+    "latitude": 29.339406,
+    "longitude": -83.086515
+  },
+  {
+    "filename": "org_secoora_hboi_big_rock_data.csv",
+    "latitude": 34.1478,
+    "longitude": -76.1681
+  },
+  {
+    "filename": "org_secoora_tbhoga_rh50_data.csv",
+    "latitude": 27.5085,
+    "longitude": -82.9441
+  },
+  {
+    "filename": "org_secoora_gacra_bn05_data.csv",
+    "latitude": 31.0968,
+    "longitude": -81.2078
+  },
+  {
+    "filename": "org_secoora_scan_sbwclam_site4_data.csv",
+    "latitude": 27.3503,
+    "longitude": -82.5762
+  },
+  {
+    "filename": "station-9-south-florida-program-_data.csv",
+    "latitude": 24.763,
+    "longitude": -80.724
+  },
+  {
+    "filename": "edu_usf_marine_comps_1407d550_data.csv",
+    "latitude": 26.404,
+    "longitude": -81.881
+  },
+  {
+    "filename": "station-v6-south-florida-program_data.csv",
+    "latitude": 26.916,
+    "longitude": -82.821
+  },
+  {
+    "filename": "org_secoora_ksc_br1_data.csv",
+    "latitude": 28.598,
+    "longitude": -80.598
+  },
+  {
+    "filename": "org_secoora_teq_pbho_data.csv",
+    "latitude": 26.7555,
+    "longitude": -80.0464
+  },
+  {
+    "filename": "station-54b-south-florida-progra_data.csv",
+    "latitude": 25.344,
+    "longitude": -81.152
+  },
+  {
+    "filename": "org_secoora_hboi_ar-275_data.csv",
+    "latitude": 34.8349,
+    "longitude": -76.2813
+  },
+  {
+    "filename": "c24-flracep-reach-2-weather-and-_data.csv",
+    "latitude": 29.745,
+    "longitude": -86.227
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720625_data.csv",
+    "latitude": 29.8017,
+    "longitude": -81.5483
+  },
+  {
+    "filename": "org_secoora_teq_pela_data.csv",
+    "latitude": 27.1221,
+    "longitude": -80.128
+  },
+  {
+    "filename": "station-38-south-florida-program_data.csv",
+    "latitude": 26.158,
+    "longitude": -82.058
+  },
+  {
+    "filename": "gov_usgs_nwis_02246751_data.csv",
+    "latitude": 30.443339,
+    "longitude": -81.6682
+  },
+  {
+    "filename": "org_secoora_flkeys_lka14_data.csv",
+    "latitude": 24.4378,
+    "longitude": -81.9312
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa34_data.csv",
+    "latitude": 24.6731,
+    "longitude": -82.8871
+  },
+  {
+    "filename": "station-42-south-florida-program_data.csv",
+    "latitude": 25.655,
+    "longitude": -81.718
+  },
+  {
+    "filename": "gov-nps-ever-cwaf1_data.csv",
+    "latitude": 25.29669,
+    "longitude": -81.0132
+  },
+  {
+    "filename": "org_secoora_boem7_data.csv",
+    "latitude": 28.7032,
+    "longitude": -80.5411
+  },
+  {
+    "filename": "org_secoora_fscapea_my13_data.csv",
+    "latitude": 24.813,
+    "longitude": -80.6851
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa14_data.csv",
+    "latitude": 24.6702,
+    "longitude": -82.8926
+  },
+  {
+    "filename": "org_secoora_hboi_ert12_data.csv",
+    "latitude": 27.4328,
+    "longitude": -80.3035
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-015_data.csv",
+    "latitude": 31.2,
+    "longitude": -81.4326
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-south_sa_data.csv",
+    "latitude": 33.1493,
+    "longitude": -79.319
+  },
+  {
+    "filename": "org_secoora_scan_ps6_data.csv",
+    "latitude": 27.4802,
+    "longitude": -82.6733
+  },
+  {
+    "filename": "gov_usgs_nwis_02319950_data.csv",
+    "latitude": 30.125728,
+    "longitude": -83.227169
+  },
+  {
+    "filename": "neuse-river-at-cm-22-fairfiel-2_data.csv",
+    "latitude": 35.07952,
+    "longitude": -77.0064
+  },
+  {
+    "filename": "org_secoora_btsnp_plbc_1_data.csv",
+    "latitude": 27.5302,
+    "longitude": -82.4712
+  },
+  {
+    "filename": "station-dt5-south-florida-progra_data.csv",
+    "latitude": 24.566,
+    "longitude": -83.267
+  },
+  {
+    "filename": "gov_usgs_nwis_02198840_data.csv",
+    "latitude": 32.235472,
+    "longitude": -81.151083
+  },
+  {
+    "filename": "org_secoora_flkeys_lka16_data.csv",
+    "latitude": 24.4383,
+    "longitude": -81.9381
+  },
+  {
+    "filename": "org_secoora_ecb_mr1a_data.csv",
+    "latitude": 28.2093,
+    "longitude": -80.5938
+  },
+  {
+    "filename": "station-22-south-florida-program_data.csv",
+    "latitude": 24.455,
+    "longitude": -81.828
+  },
+  {
+    "filename": "diamondshoals-858_data.csv",
+    "latitude": 35.098984,
+    "longitude": -75.376053
+  },
+  {
+    "filename": "org_secoora_rstsnca_aeolus_ar-30_data.csv",
+    "latitude": 34.2783,
+    "longitude": -76.6446
+  },
+  {
+    "filename": "station-bg2-south-florida-progra_data.csv",
+    "latitude": 26.689,
+    "longitude": -82.34
+  },
+  {
+    "filename": "station-rp3-south-florida-progra_data.csv",
+    "latitude": 26.55,
+    "longitude": -82.331
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa37_data.csv",
+    "latitude": 24.6738,
+    "longitude": -82.8879
+  },
+  {
+    "filename": "gov_usgs_nwis_251355080312800_data.csv",
+    "latitude": 25.232625,
+    "longitude": -80.524867
+  },
+  {
+    "filename": "org_secoora_fpl5_data.csv",
+    "latitude": 27.4746,
+    "longitude": -80.2636
+  },
+  {
+    "filename": "org_secoora_teq_thso_data.csv",
+    "latitude": 27.0046,
+    "longitude": -80.0665
+  },
+  {
+    "filename": "gov_usgs_nwis_02326550_data.csv",
+    "latitude": 30.112347,
+    "longitude": -83.979773
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-black_ri-1_data.csv",
+    "latitude": 33.524,
+    "longitude": -79.4369
+  },
+  {
+    "filename": "skidaway-river-estuary_data.csv",
+    "latitude": 31.99008,
+    "longitude": -81.02231
+  },
+  {
+    "filename": "noaa_nos_co_ops_8721604_data.csv",
+    "latitude": 28.415833,
+    "longitude": -80.593056
+  },
+  {
+    "filename": "gov-nps-ever-hcef1_data.csv",
+    "latitude": 25.25416,
+    "longitude": -80.44427
+  },
+  {
+    "filename": "org_secoora_tboff_cobil6_data.csv",
+    "latitude": 27.6444,
+    "longitude": -83.3419
+  },
+  {
+    "filename": "org_secoora_ksc_bc4_data.csv",
+    "latitude": 28.5937,
+    "longitude": -80.7283
+  },
+  {
+    "filename": "org_secoora_teq_gnwr_data.csv",
+    "latitude": 27.0138,
+    "longitude": -80.0856
+  },
+  {
+    "filename": "gov-nps-ever-tbyf1_data.csv",
+    "latitude": 25.15734,
+    "longitude": -80.72479
+  },
+  {
+    "filename": "gov-nps-ever-wwef1_data.csv",
+    "latitude": 25.23166,
+    "longitude": -80.93823
+  },
+  {
+    "filename": "myrtlebeach-726_data.csv",
+    "latitude": 33.706799,
+    "longitude": -78.760002
+  },
+  {
+    "filename": "org_secoora_cmast_ar-220_data.csv",
+    "latitude": 35.1352,
+    "longitude": -75.6773
+  },
+  {
+    "filename": "org_secoora_teq_lbhb_data.csv",
+    "latitude": 26.7828,
+    "longitude": -80.0406
+  },
+  {
+    "filename": "org_secoora_teq_pabr_data.csv",
+    "latitude": 26.8291,
+    "longitude": -80.0544
+  },
+  {
+    "filename": "gov_usgs_nwis_02310712_data.csv",
+    "latitude": 28.77165,
+    "longitude": -82.695657
+  },
+  {
+    "filename": "station-45-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.471
+  },
+  {
+    "filename": "org_secoora_cmast_naeco_data.csv",
+    "latitude": 34.0255,
+    "longitude": -76.6483
+  },
+  {
+    "filename": "station-61-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.275
+  },
+  {
+    "filename": "42023-c13-wfs-south-buoy-50m-_data.csv",
+    "latitude": 26.01,
+    "longitude": -83.086
+  },
+  {
+    "filename": "station-2-south-florida-program-_data.csv",
+    "latitude": 25.642,
+    "longitude": -80.105
+  },
+  {
+    "filename": "org_secoora_rstsnca_jennettes_pi_data.csv",
+    "latitude": 35.9112,
+    "longitude": -75.5928
+  },
+  {
+    "filename": "org_secoora_teq_ssar_data.csv",
+    "latitude": 26.792,
+    "longitude": -80.0452
+  },
+  {
+    "filename": "243-nags-head-nc-44086_data.csv",
+    "latitude": 36.001333,
+    "longitude": -75.420983
+  },
+  {
+    "filename": "org_secoora_teq_pinw_data.csv",
+    "latitude": 26.7749,
+    "longitude": -80.0484
+  },
+  {
+    "filename": "org_secoora_grnms_stsnew1_data.csv",
+    "latitude": 31.3961,
+    "longitude": -80.896
+  },
+  {
+    "filename": "noaa_nos_co_ops_8724580_data.csv",
+    "latitude": 24.55083,
+    "longitude": -81.80806
+  },
+  {
+    "filename": "41076-chr60wave-19-nm-se-of-char_data.csv",
+    "latitude": 32.5361,
+    "longitude": -79.6559
+  },
+  {
+    "filename": "st-lucie-inlet_data.csv",
+    "latitude": 27.165278,
+    "longitude": -80.162778
+  },
+  {
+    "filename": "station-ch2-south-florida-progra_data.csv",
+    "latitude": 26.661,
+    "longitude": -82.331
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-8_data.csv",
+    "latitude": 32.6208,
+    "longitude": -80.3967
+  },
+  {
+    "filename": "station-27-south-florida-program_data.csv",
+    "latitude": 24.59,
+    "longitude": -82.769
+  },
+  {
+    "filename": "org_secoora_fauk_brsb_data.csv",
+    "latitude": 26.3513,
+    "longitude": -80.0656
+  },
+  {
+    "filename": "org_secoora_gaara_dua01_data.csv",
+    "latitude": 31.7777,
+    "longitude": -80.896
+  },
+  {
+    "filename": "org_secoora_teq_piba_data.csv",
+    "latitude": 27.2227,
+    "longitude": -80.1161
+  },
+  {
+    "filename": "noaa_nos_co_ops_8728690_data.csv",
+    "latitude": 29.724444,
+    "longitude": -84.980556
+  },
+  {
+    "filename": "org_secoora_cmast_ar-275_data.csv",
+    "latitude": 34.8349,
+    "longitude": -76.2813
+  },
+  {
+    "filename": "gov-nps-ever-bwsf1_data.csv",
+    "latitude": 25.17834,
+    "longitude": -80.43838
+  },
+  {
+    "filename": "org_secoora_teq_tyrf_data.csv",
+    "latitude": 29.9273,
+    "longitude": -80.8453
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-4_data.csv",
+    "latitude": 34.7081,
+    "longitude": -79.8748
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa10_data.csv",
+    "latitude": 24.6694,
+    "longitude": -82.8918
+  },
+  {
+    "filename": "station-55-south-florida-program_data.csv",
+    "latitude": 25.35,
+    "longitude": -81.194
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-santee_r_data.csv",
+    "latitude": 33.4496,
+    "longitude": -80.1634
+  },
+  {
+    "filename": "org_secoora_hboi_ert3_data.csv",
+    "latitude": 27.7595,
+    "longitude": -80.4284
+  },
+  {
+    "filename": "org_secoora_teq_bsba_data.csv",
+    "latitude": 27.137,
+    "longitude": -80.1224
+  },
+  {
+    "filename": "gov_usgs_nwis_294213081345300_data.csv",
+    "latitude": 29.703858,
+    "longitude": -81.581192
+  },
+  {
+    "filename": "matanzas_18-1109_data.csv",
+    "latitude": 29.711433,
+    "longitude": -81.21843
+  },
+  {
+    "filename": "indian-river-lagoon-sebastian-ir_data.csv",
+    "latitude": 27.839089,
+    "longitude": -80.470822
+  },
+  {
+    "filename": "station-gp4-south-florida-progra_data.csv",
+    "latitude": 26.668,
+    "longitude": -82.559
+  },
+  {
+    "filename": "key-largo-fl_data.csv",
+    "latitude": 25.08647,
+    "longitude": -80.45305
+  },
+  {
+    "filename": "org_secoora_bttbfa_b17_data.csv",
+    "latitude": 25.4372,
+    "longitude": -80.1444
+  },
+  {
+    "filename": "gov_usgs_nwis_02198820_data.csv",
+    "latitude": 32.249167,
+    "longitude": -81.153611
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-7_data.csv",
+    "latitude": 33.0436,
+    "longitude": -81.5567
+  },
+  {
+    "filename": "nearshore-878_data.csv",
+    "latitude": 35.2369,
+    "longitude": -75.523003
+  },
+  {
+    "filename": "192-oregon-inlet-nc-44095_data.csv",
+    "latitude": 35.75,
+    "longitude": -75.33
+  },
+  {
+    "filename": "station-5-5-south-florida-progra_data.csv",
+    "latitude": 25.079,
+    "longitude": -80.333
+  },
+  {
+    "filename": "station-rp1-south-florida-progra_data.csv",
+    "latitude": 26.547,
+    "longitude": -82.216
+  },
+  {
+    "filename": "2nd-avenue-pier_data.csv",
+    "latitude": 33.682793,
+    "longitude": -78.884148
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas14_data.csv",
+    "latitude": 24.6765,
+    "longitude": -82.8858
+  },
+  {
+    "filename": "station-cal6-south-florida-progr_data.csv",
+    "latitude": 25.941,
+    "longitude": -82.481
+  },
+  {
+    "filename": "org_secoora_edisto_60_data.csv",
+    "latitude": 32.358,
+    "longitude": -80.088
+  },
+  {
+    "filename": "org_cormp_sun2_data.csv",
+    "latitude": 33.8444,
+    "longitude": -78.4839
+  },
+  {
+    "filename": "org_secoora_gacra_bnos08_data.csv",
+    "latitude": 30.9982,
+    "longitude": -81.0371
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-5_data.csv",
+    "latitude": 33.3934,
+    "longitude": -79.2548
+  },
+  {
+    "filename": "gov_usgs_nwis_251433080265000_data.csv",
+    "latitude": 25.242108,
+    "longitude": -80.447572
+  },
+  {
+    "filename": "station-uk_off-south-florida-pro_data.csv",
+    "latitude": 24.898,
+    "longitude": -80.53
+  },
+  {
+    "filename": "station-v2-south-florida-program_data.csv",
+    "latitude": 27.072,
+    "longitude": -82.547
+  },
+  {
+    "filename": "org_cormp_frp2_data.csv",
+    "latitude": 32.277,
+    "longitude": -80.4077
+  },
+  {
+    "filename": "noaa_nos_co_ops_8729210_data.csv",
+    "latitude": 30.213301,
+    "longitude": -85.878304
+  },
+  {
+    "filename": "station-52-south-florida-program_data.csv",
+    "latitude": 25.453,
+    "longitude": -81.26
+  },
+  {
+    "filename": "gov_usgs_nwis_02172002_data.csv",
+    "latitude": 33.214917,
+    "longitude": -79.974917
+  },
+  {
+    "filename": "org_secoora_flkeys_lka30_data.csv",
+    "latitude": 24.4674,
+    "longitude": -81.7746
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720030_data.csv",
+    "latitude": 30.671389,
+    "longitude": -81.465833
+  },
+  {
+    "filename": "org_secoora_hboi_ar-255_data.csv",
+    "latitude": 34.9247,
+    "longitude": -75.9652
+  },
+  {
+    "filename": "org_secoora_rstsnca_portland_data.csv",
+    "latitude": 34.493,
+    "longitude": -76.4298
+  },
+  {
+    "filename": "station-e2-south-florida-program_data.csv",
+    "latitude": 25.162,
+    "longitude": -80.305
+  },
+  {
+    "filename": "gov-nps-ever-gbtf1_data.csv",
+    "latitude": 25.16723,
+    "longitude": -80.8013
+  },
+  {
+    "filename": "org_secoora_flkeys_rha54_data.csv",
+    "latitude": 24.5056,
+    "longitude": -83.1305
+  },
+  {
+    "filename": "gov_usgs_nwis_02359170_data.csv",
+    "latitude": 29.949371,
+    "longitude": -85.015469
+  },
+  {
+    "filename": "pamlico-sound-at-ps7-modmon_data.csv",
+    "latitude": 35.03205,
+    "longitude": -76.22947
+  },
+  {
+    "filename": "noaa_nos_co_ops_8651370_data.csv",
+    "latitude": 36.1833,
+    "longitude": -75.746696
+  },
+  {
+    "filename": "gov_usgs_nwis_265906080093500_data.csv",
+    "latitude": 26.985283,
+    "longitude": -80.16
+  },
+  {
+    "filename": "org_secoora_cmast_malchace_data.csv",
+    "latitude": 34.6043,
+    "longitude": -75.787
+  },
+  {
+    "filename": "org_secoora_fscapea_my07_data.csv",
+    "latitude": 24.8086,
+    "longitude": -80.6852
+  },
+  {
+    "filename": "station-3-south-florida-program-_data.csv",
+    "latitude": 25.645,
+    "longitude": -80.083
+  },
+  {
+    "filename": "gov_usgs_nwis_302657081312400_data.csv",
+    "latitude": 30.449289,
+    "longitude": -81.5233
+  },
+  {
+    "filename": "gov_usgs_nwis_02327022_data.csv",
+    "latitude": 30.213814,
+    "longitude": -84.261563
+  },
+  {
+    "filename": "gov-nps-ever-thrf1_data.csv",
+    "latitude": 25.20338,
+    "longitude": -80.37232
+  },
+  {
+    "filename": "org_secoora_scan_ps18_data.csv",
+    "latitude": 27.4952,
+    "longitude": -82.653
+  },
+  {
+    "filename": "edu_ucsd_cdip_227_data.csv",
+    "latitude": 28.5227,
+    "longitude": -80.1878
+  },
+  {
+    "filename": "org_secoora_tboff_cobcot3_data.csv",
+    "latitude": 28.2856,
+    "longitude": -82.7533
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa01_data.csv",
+    "latitude": 24.6681,
+    "longitude": -82.8918
+  },
+  {
+    "filename": "capdan-1_data.csv",
+    "latitude": 33.803367,
+    "longitude": -77.313217
+  },
+  {
+    "filename": "org_secoora_scan_np_in_s_data.csv",
+    "latitude": 27.3353,
+    "longitude": -82.5803
+  },
+  {
+    "filename": "org_secoora_srfcea_rbe1_data.csv",
+    "latitude": 25.4543,
+    "longitude": -80.8806
+  },
+  {
+    "filename": "station-ami9-south-florida-progr_data.csv",
+    "latitude": 27.189,
+    "longitude": -83.503
+  },
+  {
+    "filename": "org_secoora_bttbfa_c26_data.csv",
+    "latitude": 25.4414,
+    "longitude": -80.1368
+  },
+  {
+    "filename": "neuse-river-at-marker-7-modmo_data.csv",
+    "latitude": 35.0144,
+    "longitude": -76.66407
+  },
+  {
+    "filename": "station-dt9-south-florida-progra_data.csv",
+    "latitude": 24.468,
+    "longitude": -83.043
+  },
+  {
+    "filename": "station-34-south-florida-program_data.csv",
+    "latitude": 25.949,
+    "longitude": -81.768
+  },
+  {
+    "filename": "st-lucie-estuary-north-fork-sle-_data.csv",
+    "latitude": 27.210028,
+    "longitude": -80.2692
+  },
+  {
+    "filename": "gov_usgs_nwis_0208458892_data.csv",
+    "latitude": 35.505833,
+    "longitude": -76.253889
+  },
+  {
+    "filename": "gov_usgs_nwis_250802081035500_data.csv",
+    "latitude": 25.136969,
+    "longitude": -81.064381
+  },
+  {
+    "filename": "station-kw3-south-florida-progra_data.csv",
+    "latitude": 24.829,
+    "longitude": -81.959
+  },
+  {
+    "filename": "org_secoora_teq_fisw_data.csv",
+    "latitude": 26.9448,
+    "longitude": -80.0777
+  },
+  {
+    "filename": "gov-nps-ever-nrrf1_data.csv",
+    "latitude": 25.34023,
+    "longitude": -80.91113
+  },
+  {
+    "filename": "myrtlebeach-743_data.csv",
+    "latitude": 33.741165,
+    "longitude": -78.681549
+  },
+  {
+    "filename": "station-ch5-south-florida-progra_data.csv",
+    "latitude": 26.383,
+    "longitude": -82.767
+  },
+  {
+    "filename": "org_secoora_fscapea_my03_data.csv",
+    "latitude": 24.8076,
+    "longitude": -80.6868
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-009_data.csv",
+    "latitude": 31.0973,
+    "longitude": -81.4346
+  },
+  {
+    "filename": "gov_usgs_nwis_02286328_data.csv",
+    "latitude": 25.900222,
+    "longitude": -80.194972
+  },
+  {
+    "filename": "org_secoora_fscapea_ly15_data.csv",
+    "latitude": 24.5821,
+    "longitude": -81.4957
+  },
+  {
+    "filename": "org_secoora_gacra_bn03_data.csv",
+    "latitude": 31.0841,
+    "longitude": -81.1721
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r_data.csv",
+    "latitude": 32.7554,
+    "longitude": -80.4503
+  },
+  {
+    "filename": "station-30-south-florida-program_data.csv",
+    "latitude": 25.401,
+    "longitude": -82.21
+  },
+  {
+    "filename": "org_secoora_rstsnca_u-352_data.csv",
+    "latitude": 34.2279,
+    "longitude": -76.5646
+  },
+  {
+    "filename": "org_secoora_fscapea_my02_data.csv",
+    "latitude": 24.8087,
+    "longitude": -80.6882
+  },
+  {
+    "filename": "myrtlebeach-751_data.csv",
+    "latitude": 33.716999,
+    "longitude": -78.772003
+  },
+  {
+    "filename": "org_secoora_flkeys_lka05_data.csv",
+    "latitude": 24.4297,
+    "longitude": -81.9422
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_15_data.csv",
+    "latitude": 24.9935,
+    "longitude": -80.4271
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-12_data.csv",
+    "latitude": 32.6393,
+    "longitude": -80.406
+  },
+  {
+    "filename": "gov-nps-ever-lbrf1_data.csv",
+    "latitude": 25.48447,
+    "longitude": -81.13342
+  },
+  {
+    "filename": "org_secoora_lka07_data.csv",
+    "latitude": 24.4305,
+    "longitude": -81.9352
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-cooper_r-4_data.csv",
+    "latitude": 32.9839,
+    "longitude": -79.9243
+  },
+  {
+    "filename": "station-37-south-florida-program_data.csv",
+    "latitude": 26.183,
+    "longitude": -81.976
+  },
+  {
+    "filename": "org_secoora_teq_slna_data.csv",
+    "latitude": 27.1415,
+    "longitude": -80.1627
+  },
+  {
+    "filename": "c13-water-velocity-wfs-south-buo_data.csv",
+    "latitude": 26.01,
+    "longitude": -83.086
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas11_data.csv",
+    "latitude": 24.674,
+    "longitude": -82.8921
+  },
+  {
+    "filename": "gov_usgs_nwis_02198810_data.csv",
+    "latitude": 32.256028,
+    "longitude": -81.178028
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_08_data.csv",
+    "latitude": 24.9941,
+    "longitude": -80.4333
+  },
+  {
+    "filename": "org_secoora_gaara_sav01_data.csv",
+    "latitude": 31.9167,
+    "longitude": -80.7808
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_00_data.csv",
+    "latitude": 24.9908,
+    "longitude": -80.4349
+  },
+  {
+    "filename": "org_secoora_flkeys_lka08_data.csv",
+    "latitude": 24.4307,
+    "longitude": -81.9318
+  },
+  {
+    "filename": "org_secoora_teq_moody_data.csv",
+    "latitude": 29.9836,
+    "longitude": -80.8511
+  },
+  {
+    "filename": "station-38-5-south-florida-progr_data.csv",
+    "latitude": 26.125,
+    "longitude": -82.167
+  },
+  {
+    "filename": "org_secoora_gacra_bnos02_data.csv",
+    "latitude": 30.9768,
+    "longitude": -80.9618
+  },
+  {
+    "filename": "cp-bridge_data.csv",
+    "latitude": 25.701,
+    "longitude": -80.249
+  },
+  {
+    "filename": "org_secoora_teq_noen_data.csv",
+    "latitude": 26.9919,
+    "longitude": -80.0247
+  },
+  {
+    "filename": "org_secoora_teq_pbis_data.csv",
+    "latitude": 26.7715,
+    "longitude": -80.0319
+  },
+  {
+    "filename": "org_secoora_cmast_ar-255_data.csv",
+    "latitude": 34.9247,
+    "longitude": -75.9652
+  },
+  {
+    "filename": "org_secoora_fsbbaya_middle_data.csv",
+    "latitude": 25.6682,
+    "longitude": -80.1832
+  },
+  {
+    "filename": "org_secoora_tboff_cobsul_data.csv",
+    "latitude": 27.5698,
+    "longitude": -83.1335
+  },
+  {
+    "filename": "gov_usgs_nwis_021720698_data.csv",
+    "latitude": 32.859064,
+    "longitude": -79.896196
+  },
+  {
+    "filename": "gov_usgs_nwis_02310673_data.csv",
+    "latitude": 28.702639,
+    "longitude": -82.624722
+  },
+  {
+    "filename": "org_secoora_teq_slr2_data.csv",
+    "latitude": 27.2023,
+    "longitude": -80.1462
+  },
+  {
+    "filename": "org_secoora_fscapea_my15_data.csv",
+    "latitude": 24.8108,
+    "longitude": -80.6821
+  },
+  {
+    "filename": "org_secoora_hboi_scln_data.csv",
+    "latitude": 27.9004,
+    "longitude": -80.4942
+  },
+  {
+    "filename": "gov_usgs_nwis_02110701_data.csv",
+    "latitude": 33.861003,
+    "longitude": -79.041147
+  },
+  {
+    "filename": "org_secoora_teq_biis_data.csv",
+    "latitude": 26.5486,
+    "longitude": -80.0482
+  },
+  {
+    "filename": "org_secoora_flkeys_lka10_data.csv",
+    "latitude": 24.4313,
+    "longitude": -81.9251
+  },
+  {
+    "filename": "org_secoora_teq_pise_data.csv",
+    "latitude": 26.7706,
+    "longitude": -80.0451
+  },
+  {
+    "filename": "org_secoora_scan_bp_in_n_data.csv",
+    "latitude": 27.3048,
+    "longitude": -82.5631
+  },
+  {
+    "filename": "gov_usgs_nwis_02310650_data.csv",
+    "latitude": 28.715264,
+    "longitude": -82.576766
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa35_data.csv",
+    "latitude": 24.6738,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "myrtlebeach-731_data.csv",
+    "latitude": 33.716999,
+    "longitude": -78.772003
+  },
+  {
+    "filename": "org_secoora_bttbfa_ek_9_data.csv",
+    "latitude": 25.4539,
+    "longitude": -80.1882
+  },
+  {
+    "filename": "org_secoora_flkeys_lka03_data.csv",
+    "latitude": 24.4334,
+    "longitude": -81.945
+  },
+  {
+    "filename": "gov_usgs_nwis_02290928_data.csv",
+    "latitude": 25.869722,
+    "longitude": -81.3825
+  },
+  {
+    "filename": "station-19-south-florida-program_data.csv",
+    "latitude": 24.609,
+    "longitude": -81.421
+  },
+  {
+    "filename": "org_secoora_rstsnca_atlas_data.csv",
+    "latitude": 34.5283,
+    "longitude": -76.2418
+  },
+  {
+    "filename": "org_secoora_flkeys_lka51_data.csv",
+    "latitude": 24.432,
+    "longitude": -81.9726
+  },
+  {
+    "filename": "gov_usgs_nwis_02110777_data.csv",
+    "latitude": 33.851561,
+    "longitude": -78.655848
+  },
+  {
+    "filename": "c18-historic-currents-and-water-_data.csv",
+    "latitude": 25.001,
+    "longitude": -83.711
+  },
+  {
+    "filename": "org_secoora_teq_4mir_data.csv",
+    "latitude": 29.9237,
+    "longitude": -81.2081
+  },
+  {
+    "filename": "org_secoora_flkeys_lka53_data.csv",
+    "latitude": 24.4334,
+    "longitude": -81.9597
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726724_data.csv",
+    "latitude": 27.978306,
+    "longitude": -82.831694
+  },
+  {
+    "filename": "org_secoora_teq_lobo_data.csv",
+    "latitude": 27.1836,
+    "longitude": -80.2657
+  },
+  {
+    "filename": "org_secoora_tboff_il6_data.csv",
+    "latitude": 27.6444,
+    "longitude": -83.3419
+  },
+  {
+    "filename": "station-13-south-florida-program_data.csv",
+    "latitude": 24.701,
+    "longitude": -81.03
+  },
+  {
+    "filename": "edu_fit_sipf1_data.csv",
+    "latitude": 27.862,
+    "longitude": -80.445
+  },
+  {
+    "filename": "station-50-south-florida-program_data.csv",
+    "latitude": 25.453,
+    "longitude": -81.35
+  },
+  {
+    "filename": "org_secoora_ffca_4ffc_data.csv",
+    "latitude": 25.9327,
+    "longitude": -81.6681
+  },
+  {
+    "filename": "org_secoora_scare_mr-01-10_data.csv",
+    "latitude": 32.6931,
+    "longitude": -79.7194
+  },
+  {
+    "filename": "station-tb10-south-florida-progr_data.csv",
+    "latitude": 27.616,
+    "longitude": -83.488
+  },
+  {
+    "filename": "c21-pinellas-county-pass-a-gr_data.csv",
+    "latitude": 27.676,
+    "longitude": -82.767
+  },
+  {
+    "filename": "org_secoora_flkeys_rha49_data.csv",
+    "latitude": 24.5127,
+    "longitude": -83.0941
+  },
+  {
+    "filename": "org_secoora_scan_sbwclam_bk_data.csv",
+    "latitude": 27.3198,
+    "longitude": -82.5637
+  },
+  {
+    "filename": "station-55b-south-florida-progra_data.csv",
+    "latitude": 25.35,
+    "longitude": -81.194
+  },
+  {
+    "filename": "org_secoora_cmast_atlas_data.csv",
+    "latitude": 34.5283,
+    "longitude": -76.2418
+  },
+  {
+    "filename": "edu_ucsd_cdip_237_data.csv",
+    "latitude": 24.5002,
+    "longitude": -81.2502
+  },
+  {
+    "filename": "gov_ornl_cdiac_graysrf_81w_31n_data.csv",
+    "latitude": 31.4,
+    "longitude": -80.87
+  },
+  {
+    "filename": "c10-historic-currents-water-temp_data.csv",
+    "latitude": 27.125,
+    "longitude": -82.875
+  },
+  {
+    "filename": "noaa_nos_co_ops_8722956_data.csv",
+    "latitude": 26.081667,
+    "longitude": -80.116667
+  },
+  {
+    "filename": "station-p2-south-florida-program_data.csv",
+    "latitude": 24.998,
+    "longitude": -80.463
+  },
+  {
+    "filename": "station-44-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.665
+  },
+  {
+    "filename": "org_secoora_hboi_shoal_65_data.csv",
+    "latitude": 34.3753,
+    "longitude": -76.4349
+  },
+  {
+    "filename": "org_secoora_fscapea_ly12_data.csv",
+    "latitude": 24.5774,
+    "longitude": -81.4929
+  },
+  {
+    "filename": "station-25-south-florida-program_data.csv",
+    "latitude": 24.393,
+    "longitude": -82.767
+  },
+  {
+    "filename": "biscayne-bay-coastal-wetlands-10_data.csv",
+    "latitude": 25.472151,
+    "longitude": -80.332113
+  },
+  {
+    "filename": "station-65-south-florida-program_data.csv",
+    "latitude": 25.101,
+    "longitude": -81.094
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_in_m_data.csv",
+    "latitude": 27.5291,
+    "longitude": -82.6407
+  },
+  {
+    "filename": "org_secoora_teq_fplr_data.csv",
+    "latitude": 27.4449,
+    "longitude": -80.1722
+  },
+  {
+    "filename": "org_secoora_edisto_offshore_data.csv",
+    "latitude": 32.2464,
+    "longitude": -79.844
+  },
+  {
+    "filename": "c19-historic-currents-and-water-_data.csv",
+    "latitude": 24.623,
+    "longitude": -82.719
+  },
+  {
+    "filename": "edu_usf_marine_comps_clb_data.csv",
+    "latitude": 27.736,
+    "longitude": -82.686
+  },
+  {
+    "filename": "org_secoora_btsnp_tcb_in_s_data.csv",
+    "latitude": 27.5466,
+    "longitude": -82.6074
+  },
+  {
+    "filename": "noaa_nos_co_ops_8661070_data.csv",
+    "latitude": 33.655,
+    "longitude": -78.918306
+  },
+  {
+    "filename": "diamondshoals-853_data.csv",
+    "latitude": 35.177898,
+    "longitude": -75.4226
+  },
+  {
+    "filename": "station-11-south-florida-program_data.csv",
+    "latitude": 24.753,
+    "longitude": -80.847
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa29_data.csv",
+    "latitude": 24.6723,
+    "longitude": -82.8887
+  },
+  {
+    "filename": "org_secoora_ksc_boem10_data.csv",
+    "latitude": 28.4253,
+    "longitude": -80.3019
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-18_data.csv",
+    "latitude": 32.5377,
+    "longitude": -80.4113
+  },
+  {
+    "filename": "org_secoora_scan_ps8_data.csv",
+    "latitude": 27.4972,
+    "longitude": -82.6521
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_13_data.csv",
+    "latitude": 24.9949,
+    "longitude": -80.4308
+  },
+  {
+    "filename": "org_secoora_teq_dart3_data.csv",
+    "latitude": 26.7684,
+    "longitude": -79.9689
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-013_data.csv",
+    "latitude": 31.1588,
+    "longitude": -81.4223
+  },
+  {
+    "filename": "c12-historic-currents-water-temp_data.csv",
+    "latitude": 27.495,
+    "longitude": -83.733
+  },
+  {
+    "filename": "org_secoora_flkeys_rha57_data.csv",
+    "latitude": 24.502,
+    "longitude": -83.1274
+  },
+  {
+    "filename": "station-kw2-south-florida-progra_data.csv",
+    "latitude": 24.727,
+    "longitude": -81.917
+  },
+  {
+    "filename": "org_secoora_flkeys_lka46_data.csv",
+    "latitude": 24.4443,
+    "longitude": -81.908
+  },
+  {
+    "filename": "org_secoora_srfcea_tbm5_data.csv",
+    "latitude": 25.4144,
+    "longitude": -80.9764
+  },
+  {
+    "filename": "station-p4-south-florida-program_data.csv",
+    "latitude": 24.967,
+    "longitude": -80.428
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720503_data.csv",
+    "latitude": 29.9817,
+    "longitude": -81.63417
+  },
+  {
+    "filename": "org_secoora_grnms_33out_data.csv",
+    "latitude": 31.3912,
+    "longitude": -80.8902
+  },
+  {
+    "filename": "indian-river-lagoon-malabar-irl-_data.csv",
+    "latitude": 27.9751,
+    "longitude": -80.5368
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-1_data.csv",
+    "latitude": 32.9563,
+    "longitude": -80.4103
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-cooper_r-1_data.csv",
+    "latitude": 33.0187,
+    "longitude": -79.9117
+  },
+  {
+    "filename": "gov_usgs_nwis_02323000_data.csv",
+    "latitude": 29.791344,
+    "longitude": -82.924293
+  },
+  {
+    "filename": "org_secoora_btsnp_tcb_out_m_data.csv",
+    "latitude": 27.546,
+    "longitude": -82.6192
+  },
+  {
+    "filename": "diamondshoals-856_data.csv",
+    "latitude": 35.129002,
+    "longitude": -75.491898
+  },
+  {
+    "filename": "gov_usgs_nwis_021989784_data.csv",
+    "latitude": 32.185757,
+    "longitude": -81.11789
+  },
+  {
+    "filename": "org_secoora_teq_noro_data.csv",
+    "latitude": 27.0048,
+    "longitude": -80.0182
+  },
+  {
+    "filename": "cherry-grove-pier_data.csv",
+    "latitude": 33.827676,
+    "longitude": -78.632021
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-7_data.csv",
+    "latitude": 33.8814,
+    "longitude": -79.405
+  },
+  {
+    "filename": "org_secoora_grnms_roldan_data.csv",
+    "latitude": 31.3896,
+    "longitude": -80.8395
+  },
+  {
+    "filename": "gov_usgs_nwis_301510081383500_data.csv",
+    "latitude": 30.252889,
+    "longitude": -81.6431
+  },
+  {
+    "filename": "org_secoora_fscapea_ly07_data.csv",
+    "latitude": 24.5759,
+    "longitude": -81.496
+  },
+  {
+    "filename": "myrtlebeach-742_data.csv",
+    "latitude": 33.648701,
+    "longitude": -78.849022
+  },
+  {
+    "filename": "station-mr-south-florida-program_data.csv",
+    "latitude": 25.006,
+    "longitude": -80.375
+  },
+  {
+    "filename": "gov_usgs_nwis_02301721_data.csv",
+    "latitude": 27.859747,
+    "longitude": -82.38426
+  },
+  {
+    "filename": "org_secoora_grnms_fs15_data.csv",
+    "latitude": 31.3765,
+    "longitude": -80.8395
+  },
+  {
+    "filename": "station-gp5-south-florida-progra_data.csv",
+    "latitude": 26.595,
+    "longitude": -82.696
+  },
+  {
+    "filename": "station-ami7-south-florida-progr_data.csv",
+    "latitude": 27.266,
+    "longitude": -83.315
+  },
+  {
+    "filename": "org_secoora_scan_skb_s_w_data.csv",
+    "latitude": 27.302,
+    "longitude": -82.5458
+  },
+  {
+    "filename": "edu_ucsd_cdip_194_data.csv",
+    "latitude": 29.999983,
+    "longitude": -81.079767
+  },
+  {
+    "filename": "org_secoora_srfcea_rbc2_data.csv",
+    "latitude": 25.4395,
+    "longitude": -80.9073
+  },
+  {
+    "filename": "org_secoora_flkeys_rha01_data.csv",
+    "latitude": 24.5013,
+    "longitude": -83.1324
+  },
+  {
+    "filename": "org_secoora_teq_slr10_data.csv",
+    "latitude": 27.2039,
+    "longitude": -80.0548
+  },
+  {
+    "filename": "gov_usgs_nwis_021720508_data.csv",
+    "latitude": 33.015778,
+    "longitude": -79.90675
+  },
+  {
+    "filename": "org_secoora_gaara_cca02_data.csv",
+    "latitude": 31.7227,
+    "longitude": -80.6738
+  },
+  {
+    "filename": "edu_usf_marine_comps_c12_data.csv",
+    "latitude": 27.504,
+    "longitude": -83.741
+  },
+  {
+    "filename": "org_secoora_flkeys_lka13_data.csv",
+    "latitude": 24.4383,
+    "longitude": -81.9276
+  },
+  {
+    "filename": "gov_usgs_nwis_02228070_data.csv",
+    "latitude": 30.974889,
+    "longitude": -81.726861
+  },
+  {
+    "filename": "org_secoora_grnms_39in_data.csv",
+    "latitude": 31.3723,
+    "longitude": -80.8982
+  },
+  {
+    "filename": "gov-nps-ever-dkkf1_data.csv",
+    "latitude": 25.18009,
+    "longitude": -80.49001
+  },
+  {
+    "filename": "c16-historic-currents-and-water-_data.csv",
+    "latitude": 27.464,
+    "longitude": -84.219
+  },
+  {
+    "filename": "org_secoora_teq_gghe_data.csv",
+    "latitude": 27.1813,
+    "longitude": -80.1924
+  },
+  {
+    "filename": "41070-pncwave-ponce-de-leon-inle_data.csv",
+    "latitude": 29.2889,
+    "longitude": -80.8027
+  },
+  {
+    "filename": "org_secoora_srfcea_tbm2_data.csv",
+    "latitude": 25.4221,
+    "longitude": -80.9874
+  },
+  {
+    "filename": "org_secoora_flkeys_lka24_data.csv",
+    "latitude": 24.4635,
+    "longitude": -81.778
+  },
+  {
+    "filename": "matanzas_18-1111_data.csv",
+    "latitude": 29.713567,
+    "longitude": -81.213783
+  },
+  {
+    "filename": "station-68-south-florida-program_data.csv",
+    "latitude": 24.93,
+    "longitude": -81.167
+  },
+  {
+    "filename": "station-48-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.33
+  },
+  {
+    "filename": "org_secoora_scare_chs_n8_data.csv",
+    "latitude": 32.694,
+    "longitude": -79.5264
+  },
+  {
+    "filename": "org_secoora_teq_tucan_data.csv",
+    "latitude": 26.9531,
+    "longitude": -80.0326
+  },
+  {
+    "filename": "org_secoora_scan_lbc_100_data.csv",
+    "latitude": 27.3377,
+    "longitude": -82.6006
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-13_data.csv",
+    "latitude": 32.6636,
+    "longitude": -80.4129
+  },
+  {
+    "filename": "org_secoora_bttbfa_rl9_data.csv",
+    "latitude": 24.4809,
+    "longitude": -81.7895
+  },
+  {
+    "filename": "c21-historic-currents-water-temp_data.csv",
+    "latitude": 27.676,
+    "longitude": -82.767
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-11_data.csv",
+    "latitude": 32.6394,
+    "longitude": -80.4063
+  },
+  {
+    "filename": "org_secoora_hboi_ert14_data.csv",
+    "latitude": 27.3091,
+    "longitude": -80.2407
+  },
+  {
+    "filename": "myrtlebeach-732_data.csv",
+    "latitude": 33.722301,
+    "longitude": -78.780602
+  },
+  {
+    "filename": "org_secoora_srfcea_rbhw2_data.csv",
+    "latitude": 25.4628,
+    "longitude": -80.866
+  },
+  {
+    "filename": "nearshore-877_data.csv",
+    "latitude": 35.246899,
+    "longitude": -75.521599
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_out_m_data.csv",
+    "latitude": 27.5273,
+    "longitude": -82.6459
+  },
+  {
+    "filename": "gov_usgs_nwis_021989791_data.csv",
+    "latitude": 32.171,
+    "longitude": -81.117639
+  },
+  {
+    "filename": "myrtlebeach-720_data.csv",
+    "latitude": 33.649601,
+    "longitude": -78.789398
+  },
+  {
+    "filename": "diamondshoals-855_data.csv",
+    "latitude": 35.178299,
+    "longitude": -75.423355
+  },
+  {
+    "filename": "org_secoora_noaaeemp_20_nt_data.csv",
+    "latitude": 17.7452,
+    "longitude": -64.5911
+  },
+  {
+    "filename": "gov-nps-ever-sref1_data.csv",
+    "latitude": 25.35412,
+    "longitude": -81.10003
+  },
+  {
+    "filename": "org_secoora_fscapea_ly08_data.csv",
+    "latitude": 24.5806,
+    "longitude": -81.4968
+  },
+  {
+    "filename": "org_secoora_teq_10bw_data.csv",
+    "latitude": 27.1976,
+    "longitude": -80.2087
+  },
+  {
+    "filename": "station-57b-south-florida-progra_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.264
+  },
+  {
+    "filename": "org_secoora_tbhoga_circle_data.csv",
+    "latitude": 27.6891,
+    "longitude": -82.8932
+  },
+  {
+    "filename": "org_secoora_flkeys_rha50_data.csv",
+    "latitude": 24.5021,
+    "longitude": -83.0936
+  },
+  {
+    "filename": "org_secoora_flkeys_lkacg_data.csv",
+    "latitude": 24.4578,
+    "longitude": -82.185
+  },
+  {
+    "filename": "gov_usgs_nwis_02299734_data.csv",
+    "latitude": 27.112719,
+    "longitude": -82.447411
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-14_data.csv",
+    "latitude": 32.269,
+    "longitude": -81.1342
+  },
+  {
+    "filename": "org_secoora_flkeys_lka54_data.csv",
+    "latitude": 24.4406,
+    "longitude": -81.9538
+  },
+  {
+    "filename": "org_secoora_teq_norn_data.csv",
+    "latitude": 27.0086,
+    "longitude": -80.018
+  },
+  {
+    "filename": "org_secoora_fsbbaya_kybc_data.csv",
+    "latitude": 25.7007,
+    "longitude": -80.1802
+  },
+  {
+    "filename": "station-tb2-south-florida-progra_data.csv",
+    "latitude": 27.722,
+    "longitude": -82.929
+  },
+  {
+    "filename": "org_secoora_grnms_14in_data.csv",
+    "latitude": 31.3705,
+    "longitude": -80.8389
+  },
+  {
+    "filename": "gov-nps-ever-mdkf1_data.csv",
+    "latitude": 25.28932,
+    "longitude": -80.39642
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-9_data.csv",
+    "latitude": 33.8152,
+    "longitude": -79.3166
+  },
+  {
+    "filename": "org_secoora_rstsnca_uss_schurz_data.csv",
+    "latitude": 34.1872,
+    "longitude": -76.602
+  },
+  {
+    "filename": "gov_usgs_nwis_02313200_data.csv",
+    "latitude": 29.046087,
+    "longitude": -82.464544
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa23_data.csv",
+    "latitude": 24.6709,
+    "longitude": -82.8894
+  },
+  {
+    "filename": "station-ami3-south-florida-progr_data.csv",
+    "latitude": 27.421,
+    "longitude": -82.939
+  },
+  {
+    "filename": "station-gp2-south-florida-progra_data.csv",
+    "latitude": 26.777,
+    "longitude": -82.35
+  },
+  {
+    "filename": "diamondshoals-854_data.csv",
+    "latitude": 35.178631,
+    "longitude": -75.42292
+  },
+  {
+    "filename": "indian-river-lagoon-titusville-i_data.csv",
+    "latitude": 28.5985,
+    "longitude": -80.7913
+  },
+  {
+    "filename": "org_secoora_bttpertar_south_sand_data.csv",
+    "latitude": 25.4851,
+    "longitude": -80.1717
+  },
+  {
+    "filename": "indian-river-lagoon-vero-beach-i_data.csv",
+    "latitude": 27.590117,
+    "longitude": -80.355258
+  },
+  {
+    "filename": "org_secoora_flkeys_lka57_data.csv",
+    "latitude": 24.4373,
+    "longitude": -81.9493
+  },
+  {
+    "filename": "org_secoora_btsnp_wb_1_data.csv",
+    "latitude": 27.5073,
+    "longitude": -82.6079
+  },
+  {
+    "filename": "neuse-river-at-streets-ferry-_data.csv",
+    "latitude": 35.2106,
+    "longitude": -77.1222
+  },
+  {
+    "filename": "org_secoora_4ki_data.csv",
+    "latitude": 32.485,
+    "longitude": -80.003
+  },
+  {
+    "filename": "matanzas_18-1110_data.csv",
+    "latitude": 29.7114,
+    "longitude": -81.218633
+  },
+  {
+    "filename": "org_secoora_hctsa_487549-ne_data.csv",
+    "latitude": 28.6258,
+    "longitude": -80.7879
+  },
+  {
+    "filename": "station-dt1-south-florida-progra_data.csv",
+    "latitude": 24.692,
+    "longitude": -82.917
+  },
+  {
+    "filename": "org_secoora_fsbbaya_estilt_data.csv",
+    "latitude": 25.6544,
+    "longitude": -80.1534
+  },
+  {
+    "filename": "station-57-1-south-florida-progr_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.336
+  },
+  {
+    "filename": "station-bg3-south-florida-progra_data.csv",
+    "latitude": 26.669,
+    "longitude": -82.417
+  },
+  {
+    "filename": "station-17-south-florida-program_data.csv",
+    "latitude": 24.635,
+    "longitude": -81.194
+  },
+  {
+    "filename": "station-kw4-south-florida-progra_data.csv",
+    "latitude": 25.014,
+    "longitude": -82.04
+  },
+  {
+    "filename": "station-64-south-florida-program_data.csv",
+    "latitude": 25.166,
+    "longitude": -81.158
+  },
+  {
+    "filename": "station-dt13-south-florida-progr_data.csv",
+    "latitude": 24.483,
+    "longitude": -82.976
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-5_data.csv",
+    "latitude": 32.9087,
+    "longitude": -81.4825
+  },
+  {
+    "filename": "org_secoora_rstsnca_we_hutton_ak_data.csv",
+    "latitude": 34.1435,
+    "longitude": -76.6522
+  },
+  {
+    "filename": "org_secoora_flkeys_lka12_data.csv",
+    "latitude": 24.4379,
+    "longitude": -81.9243
+  },
+  {
+    "filename": "org_secoora_flkeys_lkaeb2_data.csv",
+    "latitude": 24.4325,
+    "longitude": -82.0063
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-2_data.csv",
+    "latitude": 33.0348,
+    "longitude": -80.3879
+  },
+  {
+    "filename": "org_secoora_cmast_caribsea_data.csv",
+    "latitude": 34.6072,
+    "longitude": -76.3152
+  },
+  {
+    "filename": "org_secoora_tboff_cob_doc_data.csv",
+    "latitude": 26.1737,
+    "longitude": -81.9014
+  },
+  {
+    "filename": "org_secoora_teq_slof_data.csv",
+    "latitude": 27.1698,
+    "longitude": -80.1632
+  },
+  {
+    "filename": "org_secoora_bttbfa_c24_data.csv",
+    "latitude": 25.453,
+    "longitude": -80.1342
+  },
+  {
+    "filename": "org_secoora_btsnp_tcb_out_s_data.csv",
+    "latitude": 27.5437,
+    "longitude": -82.6184
+  },
+  {
+    "filename": "station-cal1-south-florida-progr_data.csv",
+    "latitude": 26.426,
+    "longitude": -81.96
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa20_data.csv",
+    "latitude": 24.6709,
+    "longitude": -82.8918
+  },
+  {
+    "filename": "gov-nps-ever-mukf1_data.csv",
+    "latitude": 25.10613,
+    "longitude": -80.94232
+  },
+  {
+    "filename": "nearshore-875_data.csv",
+    "latitude": 35.214691,
+    "longitude": -75.53447
+  },
+  {
+    "filename": "org_secoora_tboff_cob3mn_data.csv",
+    "latitude": 27.5002,
+    "longitude": -82.7824
+  },
+  {
+    "filename": "org_secoora_teq_hoco_data.csv",
+    "latitude": 27.1885,
+    "longitude": -80.203
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa21_data.csv",
+    "latitude": 24.6709,
+    "longitude": -82.8912
+  },
+  {
+    "filename": "noaa_nos_co_ops_8729108_data.csv",
+    "latitude": 30.15228,
+    "longitude": -85.66694
+  },
+  {
+    "filename": "org_secoora_gaicfs_007_data.csv",
+    "latitude": 29.6901,
+    "longitude": -81.1787
+  },
+  {
+    "filename": "indian-river-lagoon-banana-river_data.csv",
+    "latitude": 28.4549,
+    "longitude": -80.6387
+  },
+  {
+    "filename": "gov_usgs_nwis_251209080350100_data.csv",
+    "latitude": 25.203303,
+    "longitude": -80.584111
+  },
+  {
+    "filename": "org_secoora_tboff_cobcot_7_data.csv",
+    "latitude": 28.2799,
+    "longitude": -82.744
+  },
+  {
+    "filename": "gov_usgs_nwis_02198955_data.csv",
+    "latitude": 32.142778,
+    "longitude": -81.135278
+  },
+  {
+    "filename": "gov_usgs_nwis_02246518_data.csv",
+    "latitude": 30.286969,
+    "longitude": -81.57
+  },
+  {
+    "filename": "station-62-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.235
+  },
+  {
+    "filename": "noaa_nos_co_ops_8670870_data.csv",
+    "latitude": 32.0367,
+    "longitude": -80.9017
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa26_data.csv",
+    "latitude": 24.6717,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa46_data.csv",
+    "latitude": 24.6762,
+    "longitude": -82.8865
+  },
+  {
+    "filename": "org_secoora_btsnp_tcb_in_n_data.csv",
+    "latitude": 27.549,
+    "longitude": -82.6089
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa18_data.csv",
+    "latitude": 24.6702,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "blue-road-vulink_data.csv",
+    "latitude": 25.727,
+    "longitude": -80.27
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-icw-9_cm_data.csv",
+    "latitude": 33.1954,
+    "longitude": -79.2722
+  },
+  {
+    "filename": "neuse-river-at-marker-64-modm_data.csv",
+    "latitude": 35.17793,
+    "longitude": -77.09035
+  },
+  {
+    "filename": "nearshore-864_data.csv",
+    "latitude": 35.216202,
+    "longitude": -75.516899
+  },
+  {
+    "filename": "gov-nps-ever-lsnf1_data.csv",
+    "latitude": 25.23516,
+    "longitude": -80.4568
+  },
+  {
+    "filename": "gov_usgs_nwis_0217206962_data.csv",
+    "latitude": 32.921306,
+    "longitude": -79.824389
+  },
+  {
+    "filename": "org_secoora_whitr_carlasd_data.csv",
+    "latitude": 29.9561,
+    "longitude": -81.3139
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa27_data.csv",
+    "latitude": 24.6716,
+    "longitude": -82.8887
+  },
+  {
+    "filename": "station-21-south-florida-program_data.csv",
+    "latitude": 24.538,
+    "longitude": -81.413
+  },
+  {
+    "filename": "org_secoora_flkeys_lka33_data.csv",
+    "latitude": 24.5066,
+    "longitude": -81.5747
+  },
+  {
+    "filename": "gov_usgs_nwis_301817081393600_data.csv",
+    "latitude": 30.304781,
+    "longitude": -81.6601
+  },
+  {
+    "filename": "org_secoora_teq_taco_data.csv",
+    "latitude": 26.6923,
+    "longitude": -80.0493
+  },
+  {
+    "filename": "org_secoora_ecb_mr5b_data.csv",
+    "latitude": 28.1078,
+    "longitude": -80.5641
+  },
+  {
+    "filename": "org_secoora_lka11_data.csv",
+    "latitude": 24.4345,
+    "longitude": -81.9242
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas07_data.csv",
+    "latitude": 24.6703,
+    "longitude": -82.8872
+  },
+  {
+    "filename": "org_secoora_scan_sbwclam_site2_data.csv",
+    "latitude": 27.417,
+    "longitude": -82.6184
+  },
+  {
+    "filename": "pamlico-sound-at-ps2-modmon_data.csv",
+    "latitude": 35.150567,
+    "longitude": -76.42758
+  },
+  {
+    "filename": "org_secoora_hboi_ert4_data.csv",
+    "latitude": 27.7285,
+    "longitude": -80.4074
+  },
+  {
+    "filename": "org_secoora_flkeys_mrq02a_data.csv",
+    "latitude": 24.6154,
+    "longitude": -82.2207
+  },
+  {
+    "filename": "noaa_nos_co_ops_8725110_data.csv",
+    "latitude": 26.131667,
+    "longitude": -81.8075
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-10_data.csv",
+    "latitude": 33.1164,
+    "longitude": -81.6999
+  },
+  {
+    "filename": "station-5-south-florida-program-_data.csv",
+    "latitude": 25.093,
+    "longitude": -80.355
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa32_data.csv",
+    "latitude": 24.6731,
+    "longitude": -82.8887
+  },
+  {
+    "filename": "noaa_nos_co_ops_8723970_data.csv",
+    "latitude": 24.711,
+    "longitude": -81.1065
+  },
+  {
+    "filename": "pamlico-sound-at-ps5-modmon_data.csv",
+    "latitude": 35.1225,
+    "longitude": -76.2006
+  },
+  {
+    "filename": "gov_usgs_nwis_02313272_data.csv",
+    "latitude": 29.001109,
+    "longitude": -82.765788
+  },
+  {
+    "filename": "gov_usgs_nwis_02110802_data.csv",
+    "latitude": 33.649058,
+    "longitude": -79.094206
+  },
+  {
+    "filename": "neuse-river-near-piney-point-_data.csv",
+    "latitude": 35.06413,
+    "longitude": -76.52602
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-12_data.csv",
+    "latitude": 32.1969,
+    "longitude": -81.1543
+  },
+  {
+    "filename": "station-dt2-south-florida-progra_data.csv",
+    "latitude": 24.692,
+    "longitude": -83.051
+  },
+  {
+    "filename": "gov_usgs_nwis_02198980_data.csv",
+    "latitude": 32.035806,
+    "longitude": -80.906056
+  },
+  {
+    "filename": "org_secoora_cmast_ar-302_data.csv",
+    "latitude": 34.1695,
+    "longitude": -76.2287
+  },
+  {
+    "filename": "org_secoora_srfcea_rbw2_data.csv",
+    "latitude": 25.4163,
+    "longitude": -80.9566
+  },
+  {
+    "filename": "fort-johnson_data.csv",
+    "latitude": 32.753327,
+    "longitude": -79.898991
+  },
+  {
+    "filename": "org_secoora_tbhoga_rh45_data.csv",
+    "latitude": 27.5552,
+    "longitude": -82.9368
+  },
+  {
+    "filename": "org_secoora_scan_ps13_data.csv",
+    "latitude": 27.473,
+    "longitude": -82.6427
+  },
+  {
+    "filename": "org_cormp_cap2_data.csv",
+    "latitude": 32.8032,
+    "longitude": -79.6204
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_out_n_data.csv",
+    "latitude": 27.5297,
+    "longitude": -82.6458
+  },
+  {
+    "filename": "org_secoora_scan_hb_out_data.csv",
+    "latitude": 27.3254,
+    "longitude": -82.5402
+  },
+  {
+    "filename": "org_secoora_flkeys_lka19a_data.csv",
+    "latitude": 24.4429,
+    "longitude": -81.9289
+  },
+  {
+    "filename": "myrtlebeach-733_data.csv",
+    "latitude": 33.700802,
+    "longitude": -78.785202
+  },
+  {
+    "filename": "org_secoora_flkeys_rha55_data.csv",
+    "latitude": 24.5106,
+    "longitude": -83.1189
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-10_data.csv",
+    "latitude": 32.6292,
+    "longitude": -80.4232
+  },
+  {
+    "filename": "gov_usgs_nwis_02313100_data.csv",
+    "latitude": 29.049421,
+    "longitude": -82.447599
+  },
+  {
+    "filename": "nearshore-872_data.csv",
+    "latitude": 35.217701,
+    "longitude": -75.542702
+  },
+  {
+    "filename": "org_secoora_flkeys_lka04_data.csv",
+    "latitude": 24.4303,
+    "longitude": -81.9456
+  },
+  {
+    "filename": "neuse-river-near-arapahoe-mod_data.csv",
+    "latitude": 34.9766,
+    "longitude": -76.8755
+  },
+  {
+    "filename": "gov-nps-ever-wrbf1_data.csv",
+    "latitude": 25.07209,
+    "longitude": -80.73511
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa43_data.csv",
+    "latitude": 24.6755,
+    "longitude": -82.887
+  },
+  {
+    "filename": "gov_usgs_nwis_0219897945_data.csv",
+    "latitude": 32.097778,
+    "longitude": -81.082778
+  },
+  {
+    "filename": "org_secoora_srfcea_kc1_data.csv",
+    "latitude": 25.4262,
+    "longitude": -80.9275
+  },
+  {
+    "filename": "org_secoora_btsnp_tcb_out_n_data.csv",
+    "latitude": 27.5484,
+    "longitude": -82.6194
+  },
+  {
+    "filename": "org_secoora_bttbfa_ek_3_data.csv",
+    "latitude": 25.5048,
+    "longitude": -80.1746
+  },
+  {
+    "filename": "station-v9-south-florida-program_data.csv",
+    "latitude": 26.73,
+    "longitude": -83.103
+  },
+  {
+    "filename": "gov_usgs_nwis_02172020_data.csv",
+    "latitude": 33.093504,
+    "longitude": -79.948971
+  },
+  {
+    "filename": "pamlico-sound-at-ps4-modmon_data.csv",
+    "latitude": 35.118417,
+    "longitude": -76.2668
+  },
+  {
+    "filename": "org_secoora_gacra_bnos07_data.csv",
+    "latitude": 30.9934,
+    "longitude": -81.0263
+  },
+  {
+    "filename": "station-rp4-south-florida-progra_data.csv",
+    "latitude": 26.576,
+    "longitude": -82.498
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-6_data.csv",
+    "latitude": 33.686,
+    "longitude": -79.1585
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720219_data.csv",
+    "latitude": 30.387222,
+    "longitude": -81.559166
+  },
+  {
+    "filename": "gov-ndbc-41063_data.csv",
+    "latitude": 34.782,
+    "longitude": -75.941
+  },
+  {
+    "filename": "gov-nps-ever-href1_data.csv",
+    "latitude": 25.42456,
+    "longitude": -81.06012
+  },
+  {
+    "filename": "org_secoora_cmast_ar-250_data.csv",
+    "latitude": 34.9483,
+    "longitude": -75.9143
+  },
+  {
+    "filename": "station-67-south-florida-program_data.csv",
+    "latitude": 25.03,
+    "longitude": -81.127
+  },
+  {
+    "filename": "org_secoora_flkeys_lka23_data.csv",
+    "latitude": 24.467,
+    "longitude": -81.7777
+  },
+  {
+    "filename": "org_secoora_btsnp_hr_n_data.csv",
+    "latitude": 27.5642,
+    "longitude": -82.5786
+  },
+  {
+    "filename": "station-57-1b-south-florida-prog_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.336
+  },
+  {
+    "filename": "org_secoora_scare_chs_green_01_data.csv",
+    "latitude": 32.6303,
+    "longitude": -79.6205
+  },
+  {
+    "filename": "org_secoora_fpl4_data.csv",
+    "latitude": 27.4735,
+    "longitude": -80.2686
+  },
+  {
+    "filename": "gov-nps-ever-bskf1_data.csv",
+    "latitude": 25.26617,
+    "longitude": -81.16228
+  },
+  {
+    "filename": "gov_usgs_nwis_02110760_data.csv",
+    "latitude": 33.740728,
+    "longitude": -78.866693
+  },
+  {
+    "filename": "gov-ndbc-41013_data.csv",
+    "latitude": 33.441,
+    "longitude": -77.764
+  },
+  {
+    "filename": "org_secoora_teq_dbno_data.csv",
+    "latitude": 26.9125,
+    "longitude": -80.0339
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-005_data.csv",
+    "latitude": 31.1338,
+    "longitude": -81.5202
+  },
+  {
+    "filename": "org_secoora_scare_br_sw_data.csv",
+    "latitude": 32.0536,
+    "longitude": -80.42
+  },
+  {
+    "filename": "gov_usgs_nwis_02110755_data.csv",
+    "latitude": 33.798506,
+    "longitude": -78.753075
+  },
+  {
+    "filename": "org_secoora_flkeys_lka34_data.csv",
+    "latitude": 24.5058,
+    "longitude": -81.5747
+  },
+  {
+    "filename": "station-57-2b-south-florida-prog_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.489
+  },
+  {
+    "filename": "gov-nps-ever-jbyf1_data.csv",
+    "latitude": 25.22451,
+    "longitude": -80.54101
+  },
+  {
+    "filename": "station-60-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.336
+  },
+  {
+    "filename": "gov_usgs_nwis_02235500_data.csv",
+    "latitude": 28.944154,
+    "longitude": -81.339787
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa08_data.csv",
+    "latitude": 24.6687,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "gov_usgs_nwis_02323566_data.csv",
+    "latitude": 29.489681,
+    "longitude": -82.976791
+  },
+  {
+    "filename": "org_secoora_scare_area_53_nw_data.csv",
+    "latitude": 32.3754,
+    "longitude": -79.3697
+  },
+  {
+    "filename": "org_secoora_hboi_nfg1_data.csv",
+    "latitude": 27.213,
+    "longitude": -80.2849
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa38a_data.csv",
+    "latitude": 24.6738,
+    "longitude": -82.8863
+  },
+  {
+    "filename": "org_secoora_teq_nesc_data.csv",
+    "latitude": 27.2106,
+    "longitude": -80.1861
+  },
+  {
+    "filename": "org_secoora_rstsnca_british_sple_data.csv",
+    "latitude": 34.8189,
+    "longitude": -75.9027
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa07_data.csv",
+    "latitude": 24.6687,
+    "longitude": -82.8903
+  },
+  {
+    "filename": "dallas-rock-1_data.csv",
+    "latitude": 34.323,
+    "longitude": -77.6323
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-17_data.csv",
+    "latitude": 32.996,
+    "longitude": -80.4088
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-9_data.csv",
+    "latitude": 32.6058,
+    "longitude": -80.425
+  },
+  {
+    "filename": "org_secoora_scan_ps4_data.csv",
+    "latitude": 27.4763,
+    "longitude": -82.6734
+  },
+  {
+    "filename": "org_secoora_hboi_ar-250_data.csv",
+    "latitude": 34.9483,
+    "longitude": -75.9143
+  },
+  {
+    "filename": "gov_usgs_nwis_02172053_data.csv",
+    "latitude": 32.983506,
+    "longitude": -79.922861
+  },
+  {
+    "filename": "org_secoora_scan_ps11_data.csv",
+    "latitude": 27.4715,
+    "longitude": -82.6563
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-012_data.csv",
+    "latitude": 31.1669,
+    "longitude": -81.4274
+  },
+  {
+    "filename": "org_secoora_ksc_ir4_data.csv",
+    "latitude": 28.5282,
+    "longitude": -80.7636
+  },
+  {
+    "filename": "org_secoora_scan_ps12_data.csv",
+    "latitude": 27.4717,
+    "longitude": -82.6472
+  },
+  {
+    "filename": "org_secoora_fsbbaya_aisle_9_data.csv",
+    "latitude": 25.6812,
+    "longitude": -80.1814
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-2_data.csv",
+    "latitude": 34.2029,
+    "longitude": -79.5493
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa41a_data.csv",
+    "latitude": 24.6745,
+    "longitude": -82.8864
+  },
+  {
+    "filename": "station-6-south-florida-program-_data.csv",
+    "latitude": 25.065,
+    "longitude": -80.315
+  },
+  {
+    "filename": "org_secoora_bttpertar_rodriguez__data.csv",
+    "latitude": 25.0472,
+    "longitude": -80.4373
+  },
+  {
+    "filename": "org_secoora_ecb_mr1b_data.csv",
+    "latitude": 28.169,
+    "longitude": -80.5797
+  },
+  {
+    "filename": "org_secoora_teq_rhrf_data.csv",
+    "latitude": 26.9571,
+    "longitude": -80.0545
+  },
+  {
+    "filename": "org_secoora_whitr_carla_data.csv",
+    "latitude": 29.9561,
+    "longitude": -81.3139
+  },
+  {
+    "filename": "gov_usgs_nwis_330428079214800_data.csv",
+    "latitude": 33.074444,
+    "longitude": -79.363333
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726607_data.csv",
+    "latitude": 27.857778,
+    "longitude": -82.552778
+  },
+  {
+    "filename": "gov-nps-ever-lrkf1_data.csv",
+    "latitude": 24.98158,
+    "longitude": -80.8257
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa47_data.csv",
+    "latitude": 24.6765,
+    "longitude": -82.8872
+  },
+  {
+    "filename": "nerrs_acechwq_data.csv",
+    "latitude": 32.757326,
+    "longitude": -79.85894
+  },
+  {
+    "filename": "indian-river-lagoon-link-port-ir_data.csv",
+    "latitude": 27.53483,
+    "longitude": -80.343113
+  },
+  {
+    "filename": "nearshore-879_data.csv",
+    "latitude": 35.2365,
+    "longitude": -75.519302
+  },
+  {
+    "filename": "gov_usgs_nwis_021720869_data.csv",
+    "latitude": 32.83462,
+    "longitude": -80.023701
+  },
+  {
+    "filename": "org_secoora_ecb_mr4b_data.csv",
+    "latitude": 28.1252,
+    "longitude": -80.5689
+  },
+  {
+    "filename": "gov_usgs_nwis_265929080091800_data.csv",
+    "latitude": 26.9914,
+    "longitude": -80.154833
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa31_data.csv",
+    "latitude": 24.6731,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "250-cape-hatteras-east-nc_data.csv",
+    "latitude": 35.259,
+    "longitude": -75.286
+  },
+  {
+    "filename": "org_secoora_teq_tnyw_data.csv",
+    "latitude": 26.9761,
+    "longitude": -80.0165
+  },
+  {
+    "filename": "neuse-river-at-marker-15-modm_data.csv",
+    "latitude": 35.01472,
+    "longitude": -76.95943
+  },
+  {
+    "filename": "station-54-south-florida-program_data.csv",
+    "latitude": 25.344,
+    "longitude": -81.154
+  },
+  {
+    "filename": "station-70-south-florida-program_data.csv",
+    "latitude": 24.93,
+    "longitude": -81.025
+  },
+  {
+    "filename": "org_secoora_teq_dart2_data.csv",
+    "latitude": 26.7944,
+    "longitude": -80.0024
+  },
+  {
+    "filename": "org_secoora_scan_ti_1_data.csv",
+    "latitude": 27.4368,
+    "longitude": -82.6488
+  },
+  {
+    "filename": "new-pass-bridge_data.csv",
+    "latitude": 26.37803,
+    "longitude": -81.86088
+  },
+  {
+    "filename": "gov_usgs_nwis_02236000_data.csv",
+    "latitude": 29.008318,
+    "longitude": -81.382565
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-6_data.csv",
+    "latitude": 32.9087,
+    "longitude": -81.4825
+  },
+  {
+    "filename": "org_secoora_teq_snis_data.csv",
+    "latitude": 26.6166,
+    "longitude": -80.0442
+  },
+  {
+    "filename": "gov_usgs_nwis_02110770_data.csv",
+    "latitude": 33.821283,
+    "longitude": -78.718629
+  },
+  {
+    "filename": "org_secoora_hboi_ert1_data.csv",
+    "latitude": 27.8017,
+    "longitude": -80.4293
+  },
+  {
+    "filename": "c14-historic-currents-water-temp_data.csv",
+    "latitude": 28.306,
+    "longitude": -83.3
+  },
+  {
+    "filename": "org_secoora_flkeys_rha53_data.csv",
+    "latitude": 24.5184,
+    "longitude": -83.1245
+  },
+  {
+    "filename": "org_secoora_btsnp_bu_1_data.csv",
+    "latitude": 27.5234,
+    "longitude": -82.5114
+  },
+  {
+    "filename": "neuse-river-at-marker-9-modmo_data.csv",
+    "latitude": 34.94888,
+    "longitude": -76.81515
+  },
+  {
+    "filename": "station-36-south-florida-program_data.csv",
+    "latitude": 26.202,
+    "longitude": -81.902
+  },
+  {
+    "filename": "station-32-south-florida-program_data.csv",
+    "latitude": 25.873,
+    "longitude": -81.833
+  },
+  {
+    "filename": "station-v3-south-florida-program_data.csv",
+    "latitude": 27.033,
+    "longitude": -82.615
+  },
+  {
+    "filename": "myrtlebeach-744_data.csv",
+    "latitude": 33.774502,
+    "longitude": -78.681602
+  },
+  {
+    "filename": "hollywood-beach_data.csv",
+    "latitude": 26.0425,
+    "longitude": -80.1152
+  },
+  {
+    "filename": "org_secoora_bttbfa_ek_5_2_data.csv",
+    "latitude": 25.4854,
+    "longitude": -80.1718
+  },
+  {
+    "filename": "org_secoora_bttbfa_b15_data.csv",
+    "latitude": 25.4487,
+    "longitude": -80.1415
+  },
+  {
+    "filename": "station-tb3-south-florida-progra_data.csv",
+    "latitude": 27.672,
+    "longitude": -83.001
+  },
+  {
+    "filename": "gov_usgs_nwis_254157080213800_data.csv",
+    "latitude": 25.699056,
+    "longitude": -80.360611
+  },
+  {
+    "filename": "gov_usgs_nwis_02172050_data.csv",
+    "latitude": 33.057667,
+    "longitude": -79.935778
+  },
+  {
+    "filename": "org_secoora_ksc_cc22_data.csv",
+    "latitude": 28.6315,
+    "longitude": -80.5985
+  },
+  {
+    "filename": "station-57-south-florida-program_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.265
+  },
+  {
+    "filename": "org_secoora_scan_pc_out_data.csv",
+    "latitude": 27.2715,
+    "longitude": -82.5356
+  },
+  {
+    "filename": "org_secoora_flkeys_lka45_data.csv",
+    "latitude": 24.4352,
+    "longitude": -81.9164
+  },
+  {
+    "filename": "org_secoora_fscapea_ly00_data.csv",
+    "latitude": 24.5809,
+    "longitude": -81.5007
+  },
+  {
+    "filename": "org_secoora_grnms_08c_data.csv",
+    "latitude": 31.3728,
+    "longitude": -80.8667
+  },
+  {
+    "filename": "station-uk_mid-south-florida-pro_data.csv",
+    "latitude": 24.921,
+    "longitude": -80.547
+  },
+  {
+    "filename": "org_secoora_scan_sbwclam_cp_data.csv",
+    "latitude": 27.3076,
+    "longitude": -82.5424
+  },
+  {
+    "filename": "org_secoora_grnms_surtasstn20_data.csv",
+    "latitude": 31.3964,
+    "longitude": -80.8904
+  },
+  {
+    "filename": "org_secoora_teq_slr4_data.csv",
+    "latitude": 27.2064,
+    "longitude": -80.1272
+  },
+  {
+    "filename": "41159-lej3wave-lej3w-onslow-b_data.csv",
+    "latitude": 34.2071,
+    "longitude": -76.949
+  },
+  {
+    "filename": "org_secoora_hboi_ert11_data.csv",
+    "latitude": 27.4299,
+    "longitude": -80.3106
+  },
+  {
+    "filename": "gov_usgs_nwis_0208458893_data.csv",
+    "latitude": 35.506389,
+    "longitude": -76.183889
+  },
+  {
+    "filename": "neuse-river-at-marker-52-a-mo_data.csv",
+    "latitude": 35.1533,
+    "longitude": -77.07648
+  },
+  {
+    "filename": "station-dt7-south-florida-progra_data.csv",
+    "latitude": 24.3,
+    "longitude": -83.191
+  },
+  {
+    "filename": "station-tb4-south-florida-progra_data.csv",
+    "latitude": 27.617,
+    "longitude": -83.134
+  },
+  {
+    "filename": "org_secoora_flkeys_lka43_data.csv",
+    "latitude": 24.4343,
+    "longitude": -81.9278
+  },
+  {
+    "filename": "200-200-1_data.csv",
+    "latitude": 34.1321,
+    "longitude": -77.3606
+  },
+  {
+    "filename": "org_secoora_hboi_msg2_data.csv",
+    "latitude": 27.2084,
+    "longitude": -80.2345
+  },
+  {
+    "filename": "org_secoora_bttbfa_ml4_data.csv",
+    "latitude": 24.4845,
+    "longitude": -81.9031
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-15_data.csv",
+    "latitude": 32.716,
+    "longitude": -80.4231
+  },
+  {
+    "filename": "gov_usgs_nwis_255534081324000_data.csv",
+    "latitude": 25.926,
+    "longitude": -81.544306
+  },
+  {
+    "filename": "pamlico-sound-at-ps3-modmon_data.csv",
+    "latitude": 35.13125,
+    "longitude": -76.3433
+  },
+  {
+    "filename": "station-ek_off-south-florida-pro_data.csv",
+    "latitude": 25.294,
+    "longitude": -80.162
+  },
+  {
+    "filename": "station-v8-south-florida-program_data.csv",
+    "latitude": 26.832,
+    "longitude": -82.957
+  },
+  {
+    "filename": "station-dt11-south-florida-progr_data.csv",
+    "latitude": 24.619,
+    "longitude": -82.91
+  },
+  {
+    "filename": "org_secoora_teq_thno_data.csv",
+    "latitude": 27.0103,
+    "longitude": -80.0683
+  },
+  {
+    "filename": "org_secoora_scan_ps7_data.csv",
+    "latitude": 27.4863,
+    "longitude": -82.6663
+  },
+  {
+    "filename": "gov_usgs_nwis_02198950_data.csv",
+    "latitude": 32.165722,
+    "longitude": -81.137972
+  },
+  {
+    "filename": "org_secoora_flkeys_mrq04a_data.csv",
+    "latitude": 24.4529,
+    "longitude": -82.2083
+  },
+  {
+    "filename": "station-v5-south-florida-program_data.csv",
+    "latitude": 26.955,
+    "longitude": -82.752
+  },
+  {
+    "filename": "gov_usgs_nwis_023000095_data.csv",
+    "latitude": 27.51365,
+    "longitude": -82.367037
+  },
+  {
+    "filename": "gov-nps-ever-gkyf1_data.csv",
+    "latitude": 24.627247,
+    "longitude": -82.872264
+  },
+  {
+    "filename": "23mile1-1_data.csv",
+    "latitude": 33.991167,
+    "longitude": -77.343833
+  },
+  {
+    "filename": "org_secoora_fscapea_ly13_data.csv",
+    "latitude": 24.5789,
+    "longitude": -81.4939
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720357_data.csv",
+    "latitude": 30.192417,
+    "longitude": -81.69
+  },
+  {
+    "filename": "org_secoora_flkeys_lka42_data.csv",
+    "latitude": 24.434,
+    "longitude": -81.9313
+  },
+  {
+    "filename": "org_secoora_flkeys_lka18_data.csv",
+    "latitude": 24.4376,
+    "longitude": -81.9451
+  },
+  {
+    "filename": "c17-historic-currents-water-temp_data.csv",
+    "latitude": 25.245,
+    "longitude": -82.215
+  },
+  {
+    "filename": "station-24-south-florida-program_data.csv",
+    "latitude": 24.536,
+    "longitude": -81.828
+  },
+  {
+    "filename": "station-40-south-florida-program_data.csv",
+    "latitude": 25.76,
+    "longitude": -81.523
+  },
+  {
+    "filename": "org_secoora_scan_lb_out_s2_data.csv",
+    "latitude": 27.442,
+    "longitude": -82.6899
+  },
+  {
+    "filename": "org_secoora_teq_snso_data.csv",
+    "latitude": 26.8631,
+    "longitude": -80.0208
+  },
+  {
+    "filename": "org_secoora_gacra_bnos10_data.csv",
+    "latitude": 31.0145,
+    "longitude": -81.0671
+  },
+  {
+    "filename": "org_secoora_fpl3_data.csv",
+    "latitude": 27.473,
+    "longitude": -80.2738
+  },
+  {
+    "filename": "gov_usgs_nwis_02310689_data.csv",
+    "latitude": 28.813111,
+    "longitude": -82.605639
+  },
+  {
+    "filename": "org_secoora_teq_fiji_data.csv",
+    "latitude": 26.9454,
+    "longitude": -80.0742
+  },
+  {
+    "filename": "org_secoora_bttbfa_c22_data.csv",
+    "latitude": 25.4643,
+    "longitude": -80.1313
+  },
+  {
+    "filename": "org_secoora_scan_lbp_1_data.csv",
+    "latitude": 27.4274,
+    "longitude": -82.6316
+  },
+  {
+    "filename": "station-21-lk-south-florida-prog_data.csv",
+    "latitude": 24.537,
+    "longitude": -81.413
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726674_data.csv",
+    "latitude": 27.923056,
+    "longitude": -82.421389
+  },
+  {
+    "filename": "org_secoora_srfcea_rbe3_data.csv",
+    "latitude": 25.4609,
+    "longitude": -80.8695
+  },
+  {
+    "filename": "org_secoora_teq_tuca_data.csv",
+    "latitude": 26.9471,
+    "longitude": -80.0318
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah_data.csv",
+    "latitude": 33.3055,
+    "longitude": -81.8819
+  },
+  {
+    "filename": "station-49-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.292
+  },
+  {
+    "filename": "gov_usgs_nwis_02277110_data.csv",
+    "latitude": 27.199028,
+    "longitude": -80.207444
+  },
+  {
+    "filename": "org_secoora_srfcea_rbhw4_data.csv",
+    "latitude": 25.4598,
+    "longitude": -80.8631
+  },
+  {
+    "filename": "c11_data.csv",
+    "latitude": 27.187,
+    "longitude": -82.796
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa25_data.csv",
+    "latitude": 24.6716,
+    "longitude": -82.8903
+  },
+  {
+    "filename": "org_secoora_scan_ps17_data.csv",
+    "latitude": 27.4949,
+    "longitude": -82.6586
+  },
+  {
+    "filename": "org_secoora_srfcea_tbe2_data.csv",
+    "latitude": 25.4082,
+    "longitude": -80.967
+  },
+  {
+    "filename": "org_secoora_ksc_ml5_data.csv",
+    "latitude": 28.8496,
+    "longitude": -80.8158
+  },
+  {
+    "filename": "gov_usgs_nwis_02172040_data.csv",
+    "latitude": 33.056972,
+    "longitude": -79.958472
+  },
+  {
+    "filename": "station-57-2-south-florida-progr_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.49
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-8_data.csv",
+    "latitude": 33.4793,
+    "longitude": -79.1773
+  },
+  {
+    "filename": "org_secoora_hboi_scls_data.csv",
+    "latitude": 27.8203,
+    "longitude": -80.4519
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-8_data.csv",
+    "latitude": 33.0728,
+    "longitude": -81.5917
+  },
+  {
+    "filename": "edu_usf_marine_comps_shpf1_data.csv",
+    "latitude": 30.058,
+    "longitude": -84.29
+  },
+  {
+    "filename": "org_secoora_fsbbaya_wstilt_data.csv",
+    "latitude": 25.6558,
+    "longitude": -80.1829
+  },
+  {
+    "filename": "org_secoora_teq_dart5_data.csv",
+    "latitude": 26.7726,
+    "longitude": -79.9694
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_out_s_data.csv",
+    "latitude": 27.5252,
+    "longitude": -82.646
+  },
+  {
+    "filename": "gov_usgs_nwis_02232400_data.csv",
+    "latitude": 28.369728,
+    "longitude": -80.872558
+  },
+  {
+    "filename": "gov_usgs_nwis_021108125_data.csv",
+    "latitude": 33.506557,
+    "longitude": -79.126987
+  },
+  {
+    "filename": "org_secoora_btsnp_sic_out_data.csv",
+    "latitude": 27.5242,
+    "longitude": -82.611
+  },
+  {
+    "filename": "org_secoora_flkeys_rhace_data.csv",
+    "latitude": 24.5072,
+    "longitude": -83.1479
+  },
+  {
+    "filename": "ramrod-1_data.csv",
+    "latitude": 24.65985,
+    "longitude": -81.40577
+  },
+  {
+    "filename": "nearshore-867_data.csv",
+    "latitude": 35.226601,
+    "longitude": -75.542099
+  },
+  {
+    "filename": "st-lucie-estuary-south-fork-2-sl_data.csv",
+    "latitude": 27.114183,
+    "longitude": -80.282867
+  },
+  {
+    "filename": "gov-nps-ever-lrif1_data.csv",
+    "latitude": 25.28438,
+    "longitude": -80.89384
+  },
+  {
+    "filename": "org_secoora_teq_jbi2_data.csv",
+    "latitude": 27.2631,
+    "longitude": -80.2162
+  },
+  {
+    "filename": "org_secoora_tbhoga_ms_data.csv",
+    "latitude": 27.488,
+    "longitude": -82.99
+  },
+  {
+    "filename": "station-4-south-florida-program-_data.csv",
+    "latitude": 25.108,
+    "longitude": -80.38
+  },
+  {
+    "filename": "org_secoora_gacra_bnos06_data.csv",
+    "latitude": 30.9913,
+    "longitude": -81.0108
+  },
+  {
+    "filename": "edu_ucsd_cdip_143_data.csv",
+    "latitude": 28.400017,
+    "longitude": -80.53335
+  },
+  {
+    "filename": "org_secoora_scan_ps9_data.csv",
+    "latitude": 27.4741,
+    "longitude": -82.6681
+  },
+  {
+    "filename": "org_secoora_fpl2_data.csv",
+    "latitude": 27.472,
+    "longitude": -80.2789
+  },
+  {
+    "filename": "station-ami6-south-florida-progr_data.csv",
+    "latitude": 27.305,
+    "longitude": -83.221
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_10_data.csv",
+    "latitude": 24.9926,
+    "longitude": -80.4297
+  },
+  {
+    "filename": "org_secoora_scan_bc_out_data.csv",
+    "latitude": 27.4135,
+    "longitude": -82.5783
+  },
+  {
+    "filename": "noaa_nos_co_ops_8665530_data.csv",
+    "latitude": 32.780833,
+    "longitude": -79.923611
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas12_data.csv",
+    "latitude": 24.6755,
+    "longitude": -82.8917
+  },
+  {
+    "filename": "nearshore-874_data.csv",
+    "latitude": 35.263599,
+    "longitude": -75.508301
+  },
+  {
+    "filename": "org_secoora_tboff_cobsjk_data.csv",
+    "latitude": 27.4414,
+    "longitude": -82.9982
+  },
+  {
+    "filename": "org_secoora_noaaeemp_10_o_data.csv",
+    "latitude": 17.7376,
+    "longitude": -64.592
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_03_data.csv",
+    "latitude": 24.9885,
+    "longitude": -80.4294
+  },
+  {
+    "filename": "org_secoora_teq_wpbfcr_data.csv",
+    "latitude": 26.7948,
+    "longitude": -79.9862
+  },
+  {
+    "filename": "org_secoora_teq_sldj_data.csv",
+    "latitude": 27.1665,
+    "longitude": -80.1489
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726667_data.csv",
+    "latitude": 27.913333,
+    "longitude": -82.425
+  },
+  {
+    "filename": "station-29-south-florida-program_data.csv",
+    "latitude": 25.063,
+    "longitude": -82.479
+  },
+  {
+    "filename": "gov_usgs_nwis_0219897993_data.csv",
+    "latitude": 32.103056,
+    "longitude": -81.006944
+  },
+  {
+    "filename": "sun2wave-sunset-nearshore-wave_data.csv",
+    "latitude": 33.8444,
+    "longitude": -78.4839
+  },
+  {
+    "filename": "org_secoora_scan_vin_in_n_data.csv",
+    "latitude": 27.1138,
+    "longitude": -82.4648
+  },
+  {
+    "filename": "station-ami5-south-florida-progr_data.csv",
+    "latitude": 27.343,
+    "longitude": -83.127
+  },
+  {
+    "filename": "org_secoora_tboff_sul_data.csv",
+    "latitude": 27.5698,
+    "longitude": -83.1335
+  },
+  {
+    "filename": "gov-nps-ever-canf1_data.csv",
+    "latitude": 25.422131,
+    "longitude": -80.941997
+  },
+  {
+    "filename": "station-e4-south-florida-program_data.csv",
+    "latitude": 25.135,
+    "longitude": -80.258
+  },
+  {
+    "filename": "org_secoora_tboff_cob_mud_data.csv",
+    "latitude": 26.2648,
+    "longitude": -82.0168
+  },
+  {
+    "filename": "org_secoora_flkeys_lka48_data.csv",
+    "latitude": 24.437,
+    "longitude": -81.9056
+  },
+  {
+    "filename": "ufk14-ufk14aqua_data.csv",
+    "latitude": 24.909906,
+    "longitude": -80.528389
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-010_data.csv",
+    "latitude": 31.1129,
+    "longitude": -81.4258
+  },
+  {
+    "filename": "org_secoora_tboff_cob_wig_data.csv",
+    "latitude": 26.289,
+    "longitude": -81.9218
+  },
+  {
+    "filename": "org_secoora_teq_slr1_data.csv",
+    "latitude": 27.2006,
+    "longitude": -80.1524
+  },
+  {
+    "filename": "gov_usgs_nwis_255432081303900_data.csv",
+    "latitude": 25.908806,
+    "longitude": -81.510917
+  },
+  {
+    "filename": "org_secoora_grnms_stsnew2_data.csv",
+    "latitude": 31.3631,
+    "longitude": -80.8928
+  },
+  {
+    "filename": "org_secoora_btsnp_mb_in_data.csv",
+    "latitude": 27.556,
+    "longitude": -82.6027
+  },
+  {
+    "filename": "org_secoora_flkeys_lka40_data.csv",
+    "latitude": 24.434,
+    "longitude": -81.9384
+  },
+  {
+    "filename": "c22-historic-currents-water-temp_data.csv",
+    "latitude": 25.17,
+    "longitude": -83.48
+  },
+  {
+    "filename": "org_secoora_fscapea_my00_data.csv",
+    "latitude": 24.8109,
+    "longitude": -80.6912
+  },
+  {
+    "filename": "org_secoora_gacra_bnos01_data.csv",
+    "latitude": 30.9724,
+    "longitude": -80.951
+  },
+  {
+    "filename": "org_secoora_scan_lbc_500_data.csv",
+    "latitude": 27.3355,
+    "longitude": -82.6036
+  },
+  {
+    "filename": "c13-historic-currents-water-temp_data.csv",
+    "latitude": 26.01,
+    "longitude": -83.086
+  },
+  {
+    "filename": "org_secoora_scan_lb_in_s_data.csv",
+    "latitude": 27.4419,
+    "longitude": -82.6854
+  },
+  {
+    "filename": "gov_usgs_nwis_302609081453300_data.csv",
+    "latitude": 30.43585,
+    "longitude": -81.7592
+  },
+  {
+    "filename": "org_secoora_ksc_cc3_data.csv",
+    "latitude": 28.4352,
+    "longitude": -80.5601
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas13_data.csv",
+    "latitude": 24.6765,
+    "longitude": -82.8883
+  },
+  {
+    "filename": "station-25-5-south-florida-progr_data.csv",
+    "latitude": 24.287,
+    "longitude": -82.767
+  },
+  {
+    "filename": "42026-c22-loop-current-pressu_data.csv",
+    "latitude": 25.171,
+    "longitude": -83.475
+  },
+  {
+    "filename": "org_cormp_lej3_data.csv",
+    "latitude": 34.2071,
+    "longitude": -76.949
+  },
+  {
+    "filename": "org_secoora_hboi_msg1_data.csv",
+    "latitude": 27.2134,
+    "longitude": -80.2358
+  },
+  {
+    "filename": "neuse-river-south-river-modmo_data.csv",
+    "latitude": 34.98355,
+    "longitude": -76.58473
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa15_data.csv",
+    "latitude": 24.6702,
+    "longitude": -82.8918
+  },
+  {
+    "filename": "station-ami2-south-florida-progr_data.csv",
+    "latitude": 27.459,
+    "longitude": -82.845
+  },
+  {
+    "filename": "org_secoora_scan_lb_in_n_data.csv",
+    "latitude": 27.4458,
+    "longitude": -82.6872
+  },
+  {
+    "filename": "org_secoora_srfcea_tbw1_data.csv",
+    "latitude": 25.4104,
+    "longitude": -81.0084
+  },
+  {
+    "filename": "org_secoora_teq_mapo_data.csv",
+    "latitude": 27.1641,
+    "longitude": -80.1905
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720245_data.csv",
+    "latitude": 30.354083,
+    "longitude": -81.61175
+  },
+  {
+    "filename": "org_secoora_ksc_boem8_data.csv",
+    "latitude": 28.682,
+    "longitude": -80.4271
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa22_data.csv",
+    "latitude": 24.6709,
+    "longitude": -82.8903
+  },
+  {
+    "filename": "org_secoora_rstsnca_proteus_data.csv",
+    "latitude": 34.7641,
+    "longitude": -75.783
+  },
+  {
+    "filename": "edu_ucsd_cdip_433_data.csv",
+    "latitude": 36.19965,
+    "longitude": -75.71498
+  },
+  {
+    "filename": "org_secoora_bttbfa_ek_4_data.csv",
+    "latitude": 25.4931,
+    "longitude": -80.1746
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa41_data.csv",
+    "latitude": 24.6745,
+    "longitude": -82.8871
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-11_data.csv",
+    "latitude": 33.3256,
+    "longitude": -81.907
+  },
+  {
+    "filename": "indian-river-lagoon-st-lucie-est_data.csv",
+    "latitude": 27.164947,
+    "longitude": -80.171844
+  },
+  {
+    "filename": "noaa_nos_co_ops_8652587_data.csv",
+    "latitude": 35.795,
+    "longitude": -75.54806
+  },
+  {
+    "filename": "org_secoora_teq_dolo_data.csv",
+    "latitude": 29.9386,
+    "longitude": -80.9583
+  },
+  {
+    "filename": "gov_usgs_nwis_02310663_data.csv",
+    "latitude": 28.715264,
+    "longitude": -82.606211
+  },
+  {
+    "filename": "org_secoora_ecb_mr2b_data.csv",
+    "latitude": 28.1548,
+    "longitude": -80.5765
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa13_data.csv",
+    "latitude": 24.6695,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "station-tb5-south-florida-progra_data.csv",
+    "latitude": 27.617,
+    "longitude": -83.3
+  },
+  {
+    "filename": "org_secoora_flkeys_sohyd_data.csv",
+    "latitude": 24.6237,
+    "longitude": -81.1085
+  },
+  {
+    "filename": "gov_usgs_nwis_02306028_data.csv",
+    "latitude": 27.941966,
+    "longitude": -82.458706
+  },
+  {
+    "filename": "org_secoora_teq_slle_data.csv",
+    "latitude": 27.1167,
+    "longitude": -80.28
+  },
+  {
+    "filename": "org_secoora_bttbfa_b11_data.csv",
+    "latitude": 25.4713,
+    "longitude": -80.1371
+  },
+  {
+    "filename": "org_secoora_cmast_indra_data.csv",
+    "latitude": 34.5611,
+    "longitude": -76.8521
+  },
+  {
+    "filename": "org_secoora_flkeys_rha48_data.csv",
+    "latitude": 24.4891,
+    "longitude": -83.1146
+  },
+  {
+    "filename": "org_secoora_tboff_cob_gh_data.csv",
+    "latitude": 26.3432,
+    "longitude": -81.9473
+  },
+  {
+    "filename": "gov_usgs_nwis_255726081303700_data.csv",
+    "latitude": 25.956997,
+    "longitude": -81.510908
+  },
+  {
+    "filename": "station-51-south-florida-program_data.csv",
+    "latitude": 25.453,
+    "longitude": -81.308
+  },
+  {
+    "filename": "org_secoora_bttpertar_whitmore_3_data.csv",
+    "latitude": 25.1538,
+    "longitude": -80.3523
+  },
+  {
+    "filename": "org_secoora_gaicfs_005_data.csv",
+    "latitude": 29.6049,
+    "longitude": -81.171
+  },
+  {
+    "filename": "ufk14-ufk14s2_data.csv",
+    "latitude": 24.910772,
+    "longitude": -80.527641
+  },
+  {
+    "filename": "org_secoora_bttbfa_b13_data.csv",
+    "latitude": 25.46,
+    "longitude": -80.1391
+  },
+  {
+    "filename": "org_secoora_ffca_3ffc_data.csv",
+    "latitude": 25.9329,
+    "longitude": -81.667
+  },
+  {
+    "filename": "org_secoora_tbhoga_hrsl_data.csv",
+    "latitude": 27.6844,
+    "longitude": -83.0525
+  },
+  {
+    "filename": "org_secoora_fscapea_my08_data.csv",
+    "latitude": 24.8133,
+    "longitude": -80.6884
+  },
+  {
+    "filename": "gov-nps-ever-mnbf1_data.csv",
+    "latitude": 25.23945,
+    "longitude": -80.42179
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-13_data.csv",
+    "latitude": 32.2361,
+    "longitude": -81.1502
+  },
+  {
+    "filename": "org_secoora_rstsnca_duck_researc_data.csv",
+    "latitude": 36.1837,
+    "longitude": -75.7452
+  },
+  {
+    "filename": "org_secoora_rstsnca_uss_tarpon_data.csv",
+    "latitude": 34.7531,
+    "longitude": -75.7667
+  },
+  {
+    "filename": "org_secoora_teq_evca_data.csv",
+    "latitude": 27.1557,
+    "longitude": -80.0563
+  },
+  {
+    "filename": "org_secoora_bttbfa_ek_reef_5_data.csv",
+    "latitude": 25.4503,
+    "longitude": -80.1414
+  },
+  {
+    "filename": "org_secoora_scan_skb_n_e_data.csv",
+    "latitude": 27.3036,
+    "longitude": -82.544
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-3_data.csv",
+    "latitude": 32.145,
+    "longitude": -81.1403
+  },
+  {
+    "filename": "station-kw1-south-florida-progra_data.csv",
+    "latitude": 24.655,
+    "longitude": -81.905
+  },
+  {
+    "filename": "org_secoora_teq_miba_data.csv",
+    "latitude": 27.045,
+    "longitude": -80.0433
+  },
+  {
+    "filename": "gov_usgs_nwis_02297345_data.csv",
+    "latitude": 27.086667,
+    "longitude": -81.999444
+  },
+  {
+    "filename": "gov_usgs_nwis_02298202_data.csv",
+    "latitude": 26.984781,
+    "longitude": -81.935641
+  },
+  {
+    "filename": "41066-chr60-19-nm-se-of-charlest_data.csv",
+    "latitude": 32.5361,
+    "longitude": -79.6559
+  },
+  {
+    "filename": "41067-frp2wave-4-nm-southeast-of_data.csv",
+    "latitude": 32.2756,
+    "longitude": -80.406167
+  },
+  {
+    "filename": "org_secoora_teq_slws_data.csv",
+    "latitude": 27.1652,
+    "longitude": -80.1631
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa38_data.csv",
+    "latitude": 24.6738,
+    "longitude": -82.8871
+  },
+  {
+    "filename": "org_secoora_teq_sobl_data.csv",
+    "latitude": 26.6765,
+    "longitude": -80.0474
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_05_data.csv",
+    "latitude": 24.9917,
+    "longitude": -80.4324
+  },
+  {
+    "filename": "gov_usgs_nwis_02277744_data.csv",
+    "latitude": 26.947872,
+    "longitude": -80.083389
+  },
+  {
+    "filename": "gov_usgs_nwis_02110400_data.csv",
+    "latitude": 33.953505,
+    "longitude": -78.71974
+  },
+  {
+    "filename": "ufk14-ufk14s1_data.csv",
+    "latitude": 24.909077,
+    "longitude": -80.526649
+  },
+  {
+    "filename": "noaa_nos_co_ops_8658163_data.csv",
+    "latitude": 34.213333,
+    "longitude": -77.786667
+  },
+  {
+    "filename": "org_secoora_gaara_dua02_data.csv",
+    "latitude": 31.7899,
+    "longitude": -80.8746
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa12_data.csv",
+    "latitude": 24.6695,
+    "longitude": -82.8904
+  },
+  {
+    "filename": "myrtlebeach-746_data.csv",
+    "latitude": 33.706699,
+    "longitude": -78.760002
+  },
+  {
+    "filename": "st-lucie-estuary-middle-estuary-_data.csv",
+    "latitude": 27.208928,
+    "longitude": -80.247974
+  },
+  {
+    "filename": "gov-nps-ever-lbsf1_data.csv",
+    "latitude": 25.21434,
+    "longitude": -80.43221
+  },
+  {
+    "filename": "gov_usgs_nwis_02110815_data.csv",
+    "latitude": 33.444612,
+    "longitude": -79.173934
+  },
+  {
+    "filename": "gov_usgs_nwis_022035975_data.csv",
+    "latitude": 31.453333,
+    "longitude": -81.362778
+  },
+  {
+    "filename": "c15_data.csv",
+    "latitude": 27.299,
+    "longitude": -82.64
+  },
+  {
+    "filename": "org_secoora_ffca_1ffc_data.csv",
+    "latitude": 25.934,
+    "longitude": -81.6676
+  },
+  {
+    "filename": "station-cal2-south-florida-progr_data.csv",
+    "latitude": 26.383,
+    "longitude": -82.0
+  },
+  {
+    "filename": "org_secoora_flkeys_lka49_data.csv",
+    "latitude": 24.4352,
+    "longitude": -81.8983
+  },
+  {
+    "filename": "gov_usgs_nwis_302309081333001_data.csv",
+    "latitude": 30.386073,
+    "longitude": -81.558147
+  },
+  {
+    "filename": "org_secoora_lka20a_data.csv",
+    "latitude": 24.4418,
+    "longitude": -81.941
+  },
+  {
+    "filename": "gov-nps-ever-wplf1_data.csv",
+    "latitude": 25.709667,
+    "longitude": -81.249068
+  },
+  {
+    "filename": "org_secoora_gacra_bnos05_data.csv",
+    "latitude": 30.9878,
+    "longitude": -80.9925
+  },
+  {
+    "filename": "org_secoora_bttbfa_south_sands1_data.csv",
+    "latitude": 25.4857,
+    "longitude": -80.1754
+  },
+  {
+    "filename": "gov_usgs_nwis_300803081354500_data.csv",
+    "latitude": 30.134089,
+    "longitude": -81.5959
+  },
+  {
+    "filename": "edu_ucsd_cdip_132_data.csv",
+    "latitude": 30.709133,
+    "longitude": -81.291983
+  },
+  {
+    "filename": "station-tb1-south-florida-progra_data.csv",
+    "latitude": 27.802,
+    "longitude": -82.883
+  },
+  {
+    "filename": "gov_usgs_nwis_02246500_data.csv",
+    "latitude": 30.322462,
+    "longitude": -81.665374
+  },
+  {
+    "filename": "org_secoora_srfcea_sr1b_data.csv",
+    "latitude": 25.386,
+    "longitude": -81.0155
+  },
+  {
+    "filename": "edu_ucsd_cdip_228_data.csv",
+    "latitude": 28.60883,
+    "longitude": -80.59003
+  },
+  {
+    "filename": "org_secoora_rstsnca_dixie_arrow_data.csv",
+    "latitude": 34.9001,
+    "longitude": -75.7508
+  },
+  {
+    "filename": "indian-river-lagoon-jensen-beach_data.csv",
+    "latitude": 27.224389,
+    "longitude": -80.202333
+  },
+  {
+    "filename": "station-26-south-florida-program_data.csv",
+    "latitude": 24.493,
+    "longitude": -82.769
+  },
+  {
+    "filename": "station-47-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.367
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa45_data.csv",
+    "latitude": 24.6762,
+    "longitude": -82.8878
+  },
+  {
+    "filename": "org_secoora_fscapea_ly02_data.csv",
+    "latitude": 24.5776,
+    "longitude": -81.4989
+  },
+  {
+    "filename": "biscayne-bay-coastal-wetlands-8-_data.csv",
+    "latitude": 25.601238,
+    "longitude": -80.305771
+  },
+  {
+    "filename": "gov_usgs_nwis_0217206935_data.csv",
+    "latitude": 32.855694,
+    "longitude": -79.952667
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-4_data.csv",
+    "latitude": 33.0556,
+    "longitude": -80.4488
+  },
+  {
+    "filename": "gov_usgs_nwis_021989793_data.csv",
+    "latitude": 32.136667,
+    "longitude": -81.121944
+  },
+  {
+    "filename": "station-8-south-florida-program-_data.csv",
+    "latitude": 24.792,
+    "longitude": -80.742
+  },
+  {
+    "filename": "station-57-3-south-florida-progr_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.654
+  },
+  {
+    "filename": "nearshore-873_data.csv",
+    "latitude": 35.228199,
+    "longitude": -75.503899
+  },
+  {
+    "filename": "org_secoora_gacra_bn00_data.csv",
+    "latitude": 31.0585,
+    "longitude": -81.1168
+  },
+  {
+    "filename": "station-59-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.49
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas09_data.csv",
+    "latitude": 24.6748,
+    "longitude": -82.8928
+  },
+  {
+    "filename": "station-cal5-south-florida-progr_data.csv",
+    "latitude": 26.183,
+    "longitude": -82.217
+  },
+  {
+    "filename": "pamlico-sound-at-ps6-modmon_data.csv",
+    "latitude": 35.08255,
+    "longitude": -76.24867
+  },
+  {
+    "filename": "st-lucie-estuary-south-fork-sle-_data.csv",
+    "latitude": 27.187789,
+    "longitude": -80.26418
+  },
+  {
+    "filename": "org_secoora_hboi_ar-225_data.csv",
+    "latitude": 35.1128,
+    "longitude": -75.6554
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-014_data.csv",
+    "latitude": 31.17,
+    "longitude": -81.4496
+  },
+  {
+    "filename": "41068-ftp-fort-pierce-fl_data.csv",
+    "latitude": 27.59333,
+    "longitude": -80.189444
+  },
+  {
+    "filename": "org_secoora_flkeys_lka22_data.csv",
+    "latitude": 24.4654,
+    "longitude": -81.7967
+  },
+  {
+    "filename": "station-dt8-south-florida-progra_data.csv",
+    "latitude": 24.384,
+    "longitude": -83.115
+  },
+  {
+    "filename": "myrtlebeach-745_data.csv",
+    "latitude": 33.774502,
+    "longitude": -78.68177
+  },
+  {
+    "filename": "org_secoora_tboff_cobcot2_data.csv",
+    "latitude": 28.2852,
+    "longitude": -82.7706
+  },
+  {
+    "filename": "org_secoora_teq_jpgr_data.csv",
+    "latitude": 26.9267,
+    "longitude": -80.0202
+  },
+  {
+    "filename": "station-31-south-florida-program_data.csv",
+    "latitude": 25.742,
+    "longitude": -81.943
+  },
+  {
+    "filename": "org_secoora_bttbfa_c28_data.csv",
+    "latitude": 25.4302,
+    "longitude": -80.1393
+  },
+  {
+    "filename": "org_secoora_cmast_ar-305_data.csv",
+    "latitude": 34.2782,
+    "longitude": -76.6433
+  },
+  {
+    "filename": "org_secoora_flkeys_lka02_data.csv",
+    "latitude": 24.4317,
+    "longitude": -81.9656
+  },
+  {
+    "filename": "org_secoora_hboi_ert6_data.csv",
+    "latitude": 27.6742,
+    "longitude": -80.3818
+  },
+  {
+    "filename": "gov_usgs_nwis_021720677_data.csv",
+    "latitude": 32.890452,
+    "longitude": -79.962864
+  },
+  {
+    "filename": "org_secoora_btsnp_sic_in_data.csv",
+    "latitude": 27.5273,
+    "longitude": -82.6078
+  },
+  {
+    "filename": "org_secoora_flkeys_lka61_data.csv",
+    "latitude": 24.4425,
+    "longitude": -81.9314
+  },
+  {
+    "filename": "org_secoora_scan_quickpoint_2_data.csv",
+    "latitude": 27.3396,
+    "longitude": -82.5812
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-007_data.csv",
+    "latitude": 31.1154,
+    "longitude": -81.484
+  },
+  {
+    "filename": "org_secoora_scan_wk_1_data.csv",
+    "latitude": 27.4154,
+    "longitude": -82.6386
+  },
+  {
+    "filename": "org_secoora_hboi_5fnf_data.csv",
+    "latitude": 27.2384,
+    "longitude": -80.3119
+  },
+  {
+    "filename": "station-v7-south-florida-program_data.csv",
+    "latitude": 26.877,
+    "longitude": -82.89
+  },
+  {
+    "filename": "org_secoora_scan_ps14_data.csv",
+    "latitude": 27.4788,
+    "longitude": -82.6611
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-2_data.csv",
+    "latitude": 32.998,
+    "longitude": -81.491
+  },
+  {
+    "filename": "gov_usgs_nwis_02297350_data.csv",
+    "latitude": 27.077555,
+    "longitude": -82.007309
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-16_data.csv",
+    "latitude": 32.7263,
+    "longitude": -80.4432
+  },
+  {
+    "filename": "org_secoora_flkeys_lkaeb_data.csv",
+    "latitude": 24.432,
+    "longitude": -82.0143
+  },
+  {
+    "filename": "pamlico-sound-at-ps9-modmon_data.csv",
+    "latitude": 35.099867,
+    "longitude": -76.37275
+  },
+  {
+    "filename": "sanibel-dock_data.csv",
+    "latitude": 26.453428,
+    "longitude": -82.035537
+  },
+  {
+    "filename": "apache-pier_data.csv",
+    "latitude": 33.7615,
+    "longitude": -78.7798
+  },
+  {
+    "filename": "org_secoora_hboi_wbse_data.csv",
+    "latitude": 27.7591,
+    "longitude": -80.4155
+  },
+  {
+    "filename": "station-ch4-south-florida-progra_data.csv",
+    "latitude": 26.472,
+    "longitude": -82.616
+  },
+  {
+    "filename": "org_secoora_flkeys_lka37_data.csv",
+    "latitude": 24.4411,
+    "longitude": -81.9459
+  },
+  {
+    "filename": "gov_usgs_nwis_02327100_data.csv",
+    "latitude": 30.129369,
+    "longitude": -84.494348
+  },
+  {
+    "filename": "org_secoora_teq_gghw_data.csv",
+    "latitude": 27.1782,
+    "longitude": -80.1969
+  },
+  {
+    "filename": "gov_usgs_nwis_02110550_data.csv",
+    "latitude": 33.850833,
+    "longitude": -78.897222
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-north_sa_data.csv",
+    "latitude": 33.1716,
+    "longitude": -79.3033
+  },
+  {
+    "filename": "tampa_bay_land_ocean_biogeoch_lo_data.csv",
+    "latitude": 27.66167,
+    "longitude": -82.6
+  },
+  {
+    "filename": "org_secoora_fsbbaya_sandbar_data.csv",
+    "latitude": 25.6911,
+    "longitude": -80.1836
+  },
+  {
+    "filename": "org_secoora_teq_slr7_data.csv",
+    "latitude": 27.2024,
+    "longitude": -80.0793
+  },
+  {
+    "filename": "org_secoora_teq_strt_data.csv",
+    "latitude": 27.2025,
+    "longitude": -80.2504
+  },
+  {
+    "filename": "org_secoora_scan_ps10_data.csv",
+    "latitude": 27.4696,
+    "longitude": -82.6636
+  },
+  {
+    "filename": "gov_usgs_nwis_02171905_data.csv",
+    "latitude": 33.154334,
+    "longitude": -79.354224
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa09_data.csv",
+    "latitude": 24.6694,
+    "longitude": -82.8926
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa30_data.csv",
+    "latitude": 24.6723,
+    "longitude": -82.8879
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa24_data.csv",
+    "latitude": 24.6716,
+    "longitude": -82.8911
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-black_ri_data.csv",
+    "latitude": 33.4307,
+    "longitude": -79.2416
+  },
+  {
+    "filename": "org_secoora_flkeys_lkaar2_data.csv",
+    "latitude": 24.4529,
+    "longitude": -81.7709
+  },
+  {
+    "filename": "c23-flracep-reach-1-ndbc-42027_data.csv",
+    "latitude": 29.045,
+    "longitude": -85.305
+  },
+  {
+    "filename": "org_secoora_gacra_bnos03_data.csv",
+    "latitude": 30.9795,
+    "longitude": -80.9762
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-5_data.csv",
+    "latitude": 33.0618,
+    "longitude": -80.6042
+  },
+  {
+    "filename": "gov_usgs_nwis_02110725_data.csv",
+    "latitude": 33.687115,
+    "longitude": -79.004757
+  },
+  {
+    "filename": "gov_usgs_nwis_255654081350200_data.csv",
+    "latitude": 25.952361,
+    "longitude": -81.584422
+  },
+  {
+    "filename": "myrtlebeach-725_data.csv",
+    "latitude": 33.649315,
+    "longitude": -78.849319
+  },
+  {
+    "filename": "station-57-3b-south-florida-prog_data.csv",
+    "latitude": 25.352,
+    "longitude": -81.654
+  },
+  {
+    "filename": "org_secoora_scan_lb_out_n_data.csv",
+    "latitude": 27.4439,
+    "longitude": -82.6895
+  },
+  {
+    "filename": "org_secoora_hctsa_487550-se_data.csv",
+    "latitude": 28.6223,
+    "longitude": -80.7863
+  },
+  {
+    "filename": "org_secoora_teq_fpcc_data.csv",
+    "latitude": 27.4461,
+    "longitude": -80.1704
+  },
+  {
+    "filename": "gov-nps-ever-cnbf1_data.csv",
+    "latitude": 25.70185,
+    "longitude": -81.1856
+  },
+  {
+    "filename": "gov-nps-ever-pkyf1_data.csv",
+    "latitude": 24.91806,
+    "longitude": -80.7468
+  },
+  {
+    "filename": "org_secoora_teq_lwno_data.csv",
+    "latitude": 26.7738,
+    "longitude": -80.039
+  },
+  {
+    "filename": "org_secoora_scan_am_s_3_data.csv",
+    "latitude": 27.4938,
+    "longitude": -82.6952
+  },
+  {
+    "filename": "org_secoora_cmast_manuela_data.csv",
+    "latitude": 34.6765,
+    "longitude": -75.7855
+  },
+  {
+    "filename": "org_secoora_flkeys_rha02_data.csv",
+    "latitude": 24.4906,
+    "longitude": -83.1215
+  },
+  {
+    "filename": "gov_usgs_nwis_251457080395800_data.csv",
+    "latitude": 25.252542,
+    "longitude": -80.682867
+  },
+  {
+    "filename": "station-v1-south-florida-program_data.csv",
+    "latitude": 27.11,
+    "longitude": -82.478
+  },
+  {
+    "filename": "gov_usgs_nwis_021720709_data.csv",
+    "latitude": 32.802398,
+    "longitude": -79.910087
+  },
+  {
+    "filename": "station-ch1-south-florida-progra_data.csv",
+    "latitude": 26.718,
+    "longitude": -82.25
+  },
+  {
+    "filename": "station-dt14-south-florida-progr_data.csv",
+    "latitude": 24.55,
+    "longitude": -82.95
+  },
+  {
+    "filename": "gov_usgs_nwis_02327031_data.csv",
+    "latitude": 30.072705,
+    "longitude": -84.327397
+  },
+  {
+    "filename": "org_secoora_gacra_bn04_data.csv",
+    "latitude": 31.0912,
+    "longitude": -81.19
+  },
+  {
+    "filename": "station-16-south-florida-program_data.csv",
+    "latitude": 24.673,
+    "longitude": -81.204
+  },
+  {
+    "filename": "edu_ucsd_cdip_242_data.csv",
+    "latitude": 24.5345,
+    "longitude": -81.2444
+  },
+  {
+    "filename": "org_secoora_fscapea_my12_data.csv",
+    "latitude": 24.8081,
+    "longitude": -80.6834
+  },
+  {
+    "filename": "org_secoora_hctsa_487551-w_data.csv",
+    "latitude": 28.6234,
+    "longitude": -80.7903
+  },
+  {
+    "filename": "org_secoora_teq_updb_data.csv",
+    "latitude": 27.2324,
+    "longitude": -80.1117
+  },
+  {
+    "filename": "noaa_nos_co_ops_8720218_data.csv",
+    "latitude": 30.398167,
+    "longitude": -81.427889
+  },
+  {
+    "filename": "ssbn7-sun2wave-sun2w-sunset-n_data.csv",
+    "latitude": 33.8444,
+    "longitude": -78.4839
+  },
+  {
+    "filename": "org_secoora_flkeys_lka35_data.csv",
+    "latitude": 24.4371,
+    "longitude": -81.953
+  },
+  {
+    "filename": "org_secoora_teq_hrfn_data.csv",
+    "latitude": 26.9612,
+    "longitude": -80.0534
+  },
+  {
+    "filename": "org_secoora_teq_slib_data.csv",
+    "latitude": 27.2008,
+    "longitude": -80.0949
+  },
+  {
+    "filename": "neuse-river-near-janeiro-modm_data.csv",
+    "latitude": 34.9661,
+    "longitude": -76.7374
+  },
+  {
+    "filename": "myrtlebeach-749_data.csv",
+    "latitude": 33.722733,
+    "longitude": -78.77935
+  },
+  {
+    "filename": "org_secoora_cmast_big_rock_data.csv",
+    "latitude": 34.1478,
+    "longitude": -76.1681
+  },
+  {
+    "filename": "org_secoora_grnms_fs6_data.csv",
+    "latitude": 31.3707,
+    "longitude": -80.8892
+  },
+  {
+    "filename": "station-28-south-florida-program_data.csv",
+    "latitude": 24.728,
+    "longitude": -82.748
+  },
+  {
+    "filename": "station-21-5-south-florida-progr_data.csv",
+    "latitude": 24.484,
+    "longitude": -81.392
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-6_data.csv",
+    "latitude": 33.1777,
+    "longitude": -80.8035
+  },
+  {
+    "filename": "org_secoora_btsnp_hr_s_data.csv",
+    "latitude": 27.5549,
+    "longitude": -82.5898
+  },
+  {
+    "filename": "station-1-south-florida-program-_data.csv",
+    "latitude": 25.645,
+    "longitude": -80.126
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa30a_data.csv",
+    "latitude": 24.6724,
+    "longitude": -82.887
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_in_n_data.csv",
+    "latitude": 27.5312,
+    "longitude": -82.6399
+  },
+  {
+    "filename": "station-15-south-florida-program_data.csv",
+    "latitude": 24.644,
+    "longitude": -81.017
+  },
+  {
+    "filename": "org_secoora_rstsnca_keshena_data.csv",
+    "latitude": 34.9936,
+    "longitude": -75.7622
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-9_data.csv",
+    "latitude": 32.0829,
+    "longitude": -81.0936
+  },
+  {
+    "filename": "org_secoora_tboff_cog_data.csv",
+    "latitude": 27.4686,
+    "longitude": -83.2211
+  },
+  {
+    "filename": "nearshore-871_data.csv",
+    "latitude": 35.214298,
+    "longitude": -75.538101
+  },
+  {
+    "filename": "org_secoora_ffca_2ffc_data.csv",
+    "latitude": 25.9338,
+    "longitude": -81.6664
+  },
+  {
+    "filename": "gov_usgs_nwis_02313098_data.csv",
+    "latitude": 29.071306,
+    "longitude": -82.426611
+  },
+  {
+    "filename": "station-22-5-south-florida-progr_data.csv",
+    "latitude": 24.397,
+    "longitude": -81.828
+  },
+  {
+    "filename": "org_secoora_bttbfa_b19_data.csv",
+    "latitude": 25.4258,
+    "longitude": -80.1471
+  },
+  {
+    "filename": "org_secoora_hboi_msg3_data.csv",
+    "latitude": 27.2034,
+    "longitude": -80.2338
+  },
+  {
+    "filename": "org_secoora_lka25_data.csv",
+    "latitude": 24.4581,
+    "longitude": -81.7776
+  },
+  {
+    "filename": "station-23-south-florida-program_data.csv",
+    "latitude": 24.487,
+    "longitude": -81.828
+  },
+  {
+    "filename": "nearshore-880_data.csv",
+    "latitude": 35.236,
+    "longitude": -75.516403
+  },
+  {
+    "filename": "station-43-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.854
+  },
+  {
+    "filename": "org_secoora_hboi_sbpi_data.csv",
+    "latitude": 27.7919,
+    "longitude": -80.444
+  },
+  {
+    "filename": "gov-nps-ever-lmdf1_data.csv",
+    "latitude": 25.1758,
+    "longitude": -80.63269
+  },
+  {
+    "filename": "sab_sed-272_data.csv",
+    "latitude": 28.501333,
+    "longitude": -79.015778
+  },
+  {
+    "filename": "org_secoora_flkeys_mrq01a_data.csv",
+    "latitude": 24.6143,
+    "longitude": -82.2105
+  },
+  {
+    "filename": "org_secoora_gaara_cca01_data.csv",
+    "latitude": 31.701,
+    "longitude": -80.6879
+  },
+  {
+    "filename": "org_secoora_teq_jbi1_data.csv",
+    "latitude": 27.2486,
+    "longitude": -80.2041
+  },
+  {
+    "filename": "gov_usgs_nwis_02301718_data.csv",
+    "latitude": 27.869342,
+    "longitude": -82.326453
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-003_data.csv",
+    "latitude": 31.221,
+    "longitude": -81.5636
+  },
+  {
+    "filename": "station-e3-south-florida-program_data.csv",
+    "latitude": 25.148,
+    "longitude": -80.283
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa17_data.csv",
+    "latitude": 24.6702,
+    "longitude": -82.8903
+  },
+  {
+    "filename": "41069-pnc-ponce-de-leon-inlet-fl_data.csv",
+    "latitude": 29.28888,
+    "longitude": -80.802788
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-15_data.csv",
+    "latitude": 32.3629,
+    "longitude": -81.1746
+  },
+  {
+    "filename": "org_secoora_hboi_ar-285_data.csv",
+    "latitude": 34.559,
+    "longitude": -76.4365
+  },
+  {
+    "filename": "station-p3-south-florida-program_data.csv",
+    "latitude": 24.982,
+    "longitude": -80.445
+  },
+  {
+    "filename": "org_secoora_flkeys_lka56_data.csv",
+    "latitude": 24.4418,
+    "longitude": -81.95
+  },
+  {
+    "filename": "station-10-south-florida-program_data.csv",
+    "latitude": 24.786,
+    "longitude": -80.861
+  },
+  {
+    "filename": "gov-nps-ever-wiwf1_data.csv",
+    "latitude": 25.58749,
+    "longitude": -81.04364
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-charlest_data.csv",
+    "latitude": 32.7683,
+    "longitude": -79.8703
+  },
+  {
+    "filename": "org_secoora_btsnp_br_1_data.csv",
+    "latitude": 27.4978,
+    "longitude": -82.5247
+  },
+  {
+    "filename": "org_secoora_srfcea_tbw3_data.csv",
+    "latitude": 25.4178,
+    "longitude": -81.0132
+  },
+  {
+    "filename": "station-rp2-south-florida-progra_data.csv",
+    "latitude": 26.552,
+    "longitude": -82.255
+  },
+  {
+    "filename": "gov-nps-ever-bkyf1_data.csv",
+    "latitude": 25.12111,
+    "longitude": -80.83356
+  },
+  {
+    "filename": "org_secoora_hboi_ert2_data.csv",
+    "latitude": 27.7254,
+    "longitude": -80.3965
+  },
+  {
+    "filename": "org_secoora_teq_ropa_data.csv",
+    "latitude": 26.7071,
+    "longitude": -80.0458
+  },
+  {
+    "filename": "org_secoora_teq_10br_data.csv",
+    "latitude": 27.2009,
+    "longitude": -80.2061
+  },
+  {
+    "filename": "org_secoora_cmast_ar-300_data.csv",
+    "latitude": 34.3092,
+    "longitude": -76.402
+  },
+  {
+    "filename": "gov_usgs_nwis_285531082412600_data.csv",
+    "latitude": 28.925278,
+    "longitude": -82.690639
+  },
+  {
+    "filename": "org_secoora_teq_oplr_data.csv",
+    "latitude": 29.8397,
+    "longitude": -80.9548
+  },
+  {
+    "filename": "noaa_nos_co_ops_8723214_data.csv",
+    "latitude": 25.731667,
+    "longitude": -80.161667
+  },
+  {
+    "filename": "org_secoora_mmf_23_data.csv",
+    "latitude": 26.5514,
+    "longitude": -80.0372
+  },
+  {
+    "filename": "station-18-south-florida-program_data.csv",
+    "latitude": 24.598,
+    "longitude": -81.184
+  },
+  {
+    "filename": "gov_usgs_nwis_301204081434900_data.csv",
+    "latitude": 30.201181,
+    "longitude": -81.7304
+  },
+  {
+    "filename": "41110-ilm2wave-ilm2w-5-miles-_data.csv",
+    "latitude": 34.1445,
+    "longitude": -77.7183
+  },
+  {
+    "filename": "gov_usgs_nwis_251127080382100_data.csv",
+    "latitude": 25.190594,
+    "longitude": -80.639053
+  },
+  {
+    "filename": "org_secoora_srfcea_rbe2_data.csv",
+    "latitude": 25.4569,
+    "longitude": -80.8761
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-cooper_r_data.csv",
+    "latitude": 32.9669,
+    "longitude": -79.9244
+  },
+  {
+    "filename": "gov_usgs_nwis_02246459_data.csv",
+    "latitude": 30.282184,
+    "longitude": -81.740376
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa33_data.csv",
+    "latitude": 24.6731,
+    "longitude": -82.8879
+  },
+  {
+    "filename": "org_secoora_cmast_shoal_65_data.csv",
+    "latitude": 34.3753,
+    "longitude": -76.4349
+  },
+  {
+    "filename": "station-69-south-florida-program_data.csv",
+    "latitude": 24.93,
+    "longitude": -81.095
+  },
+  {
+    "filename": "org_secoora_ksc_ir3_data.csv",
+    "latitude": 28.6499,
+    "longitude": -80.8063
+  },
+  {
+    "filename": "station-53-south-florida-program_data.csv",
+    "latitude": 25.453,
+    "longitude": -81.226
+  },
+  {
+    "filename": "myrtlebeach-753_data.csv",
+    "latitude": 33.700699,
+    "longitude": -78.784897
+  },
+  {
+    "filename": "noaa_nos_co_ops_8656483_data.csv",
+    "latitude": 34.72,
+    "longitude": -76.67
+  },
+  {
+    "filename": "org_secoora_btsnp_mb_out_data.csv",
+    "latitude": 27.5594,
+    "longitude": -82.6049
+  },
+  {
+    "filename": "gov-nps-ever-tcvf1_data.csv",
+    "latitude": 25.21275,
+    "longitude": -80.53339
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa04_data.csv",
+    "latitude": 24.6687,
+    "longitude": -82.8926
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm__data.csv",
+    "latitude": 33.8418,
+    "longitude": -79.3452
+  },
+  {
+    "filename": "station-e1-south-florida-program_data.csv",
+    "latitude": 25.178,
+    "longitude": -80.335
+  },
+  {
+    "filename": "org_secoora_ksc_boem9_data.csv",
+    "latitude": 28.5283,
+    "longitude": -80.3516
+  },
+  {
+    "filename": "org_secoora_flkeys_lka60_data.csv",
+    "latitude": 24.4423,
+    "longitude": -81.9378
+  },
+  {
+    "filename": "station-58-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.654
+  },
+  {
+    "filename": "edu_ucsd_cdip_226_data.csv",
+    "latitude": 25.7,
+    "longitude": -83.65
+  },
+  {
+    "filename": "org_secoora_cmast_ar-225_data.csv",
+    "latitude": 35.1128,
+    "longitude": -75.6554
+  },
+  {
+    "filename": "org_secoora_teq_ceba_data.csv",
+    "latitude": 27.2106,
+    "longitude": -80.11
+  },
+  {
+    "filename": "station-cal3-south-florida-progr_data.csv",
+    "latitude": 26.342,
+    "longitude": -82.043
+  },
+  {
+    "filename": "mooring-ob27m-onslow-bay-nc_data.csv",
+    "latitude": 33.99193,
+    "longitude": -77.355
+  },
+  {
+    "filename": "station-7-south-florida-program-_data.csv",
+    "latitude": 24.818,
+    "longitude": -80.755
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726384_data.csv",
+    "latitude": 27.638333,
+    "longitude": -82.5625
+  },
+  {
+    "filename": "org_cormp_ilm2_data.csv",
+    "latitude": 34.1445,
+    "longitude": -77.7183
+  },
+  {
+    "filename": "station-46-south-florida-program_data.csv",
+    "latitude": 25.583,
+    "longitude": -81.408
+  },
+  {
+    "filename": "org_secoora_scan_sbwclam_fc_data.csv",
+    "latitude": 27.2858,
+    "longitude": -82.5436
+  },
+  {
+    "filename": "station-39-south-florida-program_data.csv",
+    "latitude": 25.783,
+    "longitude": -81.482
+  },
+  {
+    "filename": "station-dt4-south-florida-progra_data.csv",
+    "latitude": 24.691,
+    "longitude": -83.309
+  },
+  {
+    "filename": "org_secoora_teq_dart4_data.csv",
+    "latitude": 26.7679,
+    "longitude": -79.9699
+  },
+  {
+    "filename": "org_secoora_teq_pcbr_data.csv",
+    "latitude": 27.1659,
+    "longitude": -80.2547
+  },
+  {
+    "filename": "gov_usgs_nwis_02310308_data.csv",
+    "latitude": 28.250288,
+    "longitude": -82.722601
+  },
+  {
+    "filename": "gov-nps-ever-lmrf1_data.csv",
+    "latitude": 25.55583,
+    "longitude": -81.1689
+  },
+  {
+    "filename": "org_secoora_flkeys_lka41_data.csv",
+    "latitude": 24.434,
+    "longitude": -81.9351
+  },
+  {
+    "filename": "gov_usgs_nwis_02290930_data.csv",
+    "latitude": 25.828611,
+    "longitude": -81.341667
+  },
+  {
+    "filename": "station-ch3-south-florida-progra_data.csv",
+    "latitude": 26.554,
+    "longitude": -82.467
+  },
+  {
+    "filename": "gov_usgs_nwis_02290709_data.csv",
+    "latitude": 25.559861,
+    "longitude": -80.359556
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa44_data.csv",
+    "latitude": 24.6754,
+    "longitude": -82.8857
+  },
+  {
+    "filename": "noaa_nos_co_ops_8726520_data.csv",
+    "latitude": 27.76061,
+    "longitude": -82.6269
+  },
+  {
+    "filename": "station-71-south-florida-program_data.csv",
+    "latitude": 24.93,
+    "longitude": -80.964
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-1_data.csv",
+    "latitude": 33.368,
+    "longitude": -81.947
+  },
+  {
+    "filename": "org_secoora_teq_grsn_data.csv",
+    "latitude": 26.9131,
+    "longitude": -80.01
+  },
+  {
+    "filename": "org_secoora_scan_ps3_data.csv",
+    "latitude": 27.4778,
+    "longitude": -82.6833
+  },
+  {
+    "filename": "org_secoora_scare_area_53_sw_data.csv",
+    "latitude": 32.3538,
+    "longitude": -79.3703
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-cooper_r-3_data.csv",
+    "latitude": 33.2438,
+    "longitude": -79.9912
+  },
+  {
+    "filename": "gov_usgs_nwis_02310742_data.csv",
+    "latitude": 28.893361,
+    "longitude": -82.605556
+  },
+  {
+    "filename": "gov-ndbc-41062_data.csv",
+    "latitude": 35.778,
+    "longitude": -75.095
+  },
+  {
+    "filename": "org_secoora_cmast_shoal_110_data.csv",
+    "latitude": 34.2342,
+    "longitude": -76.3107
+  },
+  {
+    "filename": "station-28-5-south-florida-progr_data.csv",
+    "latitude": 24.9,
+    "longitude": -82.617
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas06_data.csv",
+    "latitude": 24.6684,
+    "longitude": -82.8877
+  },
+  {
+    "filename": "gov_usgs_nwis_02110704_data.csv",
+    "latitude": 33.832611,
+    "longitude": -79.043722
+  },
+  {
+    "filename": "danspot-1_data.csv",
+    "latitude": 33.635567,
+    "longitude": -77.221683
+  },
+  {
+    "filename": "gov_usgs_nwis_02304000_data.csv",
+    "latitude": 28.054462,
+    "longitude": -82.363703
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-16_data.csv",
+    "latitude": 32.1466,
+    "longitude": -81.1329
+  },
+  {
+    "filename": "station-gp1-south-florida-progra_data.csv",
+    "latitude": 26.804,
+    "longitude": -82.299
+  },
+  {
+    "filename": "org_secoora_scare_area_53_ne_data.csv",
+    "latitude": 32.3766,
+    "longitude": -79.3426
+  },
+  {
+    "filename": "org_secoora_teq_aking_data.csv",
+    "latitude": 29.8764,
+    "longitude": -81.1534
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-3_data.csv",
+    "latitude": 33.0565,
+    "longitude": -80.4049
+  },
+  {
+    "filename": "noaa_nos_co_ops_8727520_data.csv",
+    "latitude": 29.135,
+    "longitude": -83.0317
+  },
+  {
+    "filename": "myrtlebeach-724_data.csv",
+    "latitude": 33.77388,
+    "longitude": -78.682068
+  },
+  {
+    "filename": "org_secoora_scan_bp_out_n_data.csv",
+    "latitude": 27.2996,
+    "longitude": -82.5642
+  },
+  {
+    "filename": "org_secoora_scan_ps5_data.csv",
+    "latitude": 27.4782,
+    "longitude": -82.6744
+  },
+  {
+    "filename": "org_secoora_grnms_09t_data.csv",
+    "latitude": 31.387,
+    "longitude": -80.8739
+  },
+  {
+    "filename": "station-9-5-south-florida-progra_data.csv",
+    "latitude": 24.717,
+    "longitude": -80.69
+  },
+  {
+    "filename": "gov_usgs_nwis_02304510_data.csv",
+    "latitude": 28.02113,
+    "longitude": -82.434539
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa11_data.csv",
+    "latitude": 24.6694,
+    "longitude": -82.8909
+  },
+  {
+    "filename": "org_secoora_teq_sfhb_data.csv",
+    "latitude": 27.1023,
+    "longitude": -80.2485
+  },
+  {
+    "filename": "nearshore-866_data.csv",
+    "latitude": 35.2248,
+    "longitude": -75.543701
+  },
+  {
+    "filename": "org_secoora_scan_scamp_1_data.csv",
+    "latitude": 26.9396,
+    "longitude": -83.3438
+  },
+  {
+    "filename": "org_secoora_gacra_bn01_data.csv",
+    "latitude": 31.0692,
+    "longitude": -81.1362
+  },
+  {
+    "filename": "station-33-south-florida-program_data.csv",
+    "latitude": 25.912,
+    "longitude": -81.8
+  },
+  {
+    "filename": "gov_usgs_nwis_021989792_data.csv",
+    "latitude": 32.165833,
+    "longitude": -81.13
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-14_data.csv",
+    "latitude": 32.6636,
+    "longitude": -80.4129
+  },
+  {
+    "filename": "wrightsville-467_data.csv",
+    "latitude": 34.199833,
+    "longitude": -77.769333
+  },
+  {
+    "filename": "gov_usgs_nwis_02198920_data.csv",
+    "latitude": 32.165333,
+    "longitude": -81.154917
+  },
+  {
+    "filename": "gov-nps-ever-gbif1_data.csv",
+    "latitude": 25.37806,
+    "longitude": -81.02953
+  },
+  {
+    "filename": "org_secoora_flkeys_lka26_data.csv",
+    "latitude": 24.4582,
+    "longitude": -81.7742
+  },
+  {
+    "filename": "gov_usgs_nwis_02310690_data.csv",
+    "latitude": 28.801372,
+    "longitude": -82.6026
+  },
+  {
+    "filename": "org_secoora_flkeys_lka59_data.csv",
+    "latitude": 24.4304,
+    "longitude": -81.9485
+  },
+  {
+    "filename": "org_secoora_scan_skc_100_data.csv",
+    "latitude": 27.2458,
+    "longitude": -82.5378
+  },
+  {
+    "filename": "pamlico-sound-at-ps8-modmon_data.csv",
+    "latitude": 35.026167,
+    "longitude": -76.3057
+  },
+  {
+    "filename": "myrtlebeach-740_data.csv",
+    "latitude": 33.649502,
+    "longitude": -78.7901
+  },
+  {
+    "filename": "station-35-south-florida-program_data.csv",
+    "latitude": 26.223,
+    "longitude": -81.842
+  },
+  {
+    "filename": "org_secoora_teq_jbi5_data.csv",
+    "latitude": 27.2611,
+    "longitude": -80.2097
+  },
+  {
+    "filename": "station-cal4-south-florida-progr_data.csv",
+    "latitude": 26.258,
+    "longitude": -82.133
+  },
+  {
+    "filename": "gov-nps-ever-bdvf1_data.csv",
+    "latitude": 25.47833,
+    "longitude": -80.98925
+  },
+  {
+    "filename": "station-ami4-south-florida-progr_data.csv",
+    "latitude": 27.383,
+    "longitude": -83.032
+  },
+  {
+    "filename": "org_secoora_scan_skc_500_data.csv",
+    "latitude": 27.2438,
+    "longitude": -82.5412
+  },
+  {
+    "filename": "org_secoora_scan_np_in_n_data.csv",
+    "latitude": 27.3361,
+    "longitude": -82.5812
+  },
+  {
+    "filename": "noaa_nos_co_ops_8722670_data.csv",
+    "latitude": 26.612778,
+    "longitude": -80.034167
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa19_data.csv",
+    "latitude": 24.6709,
+    "longitude": -82.8926
+  },
+  {
+    "filename": "noaa_nos_co_ops_8658120_data.csv",
+    "latitude": 34.2275,
+    "longitude": -77.953611
+  },
+  {
+    "filename": "edu_ucsd_cdip_214_data.csv",
+    "latitude": 27.591,
+    "longitude": -82.93085
+  },
+  {
+    "filename": "vester-field-station_data.csv",
+    "latitude": 26.330882,
+    "longitude": -81.837193
+  },
+  {
+    "filename": "gov-nps-ever-bobf1_data.csv",
+    "latitude": 25.02663,
+    "longitude": -80.68137
+  },
+  {
+    "filename": "org_secoora_fauk_siis_data.csv",
+    "latitude": 26.7846,
+    "longitude": -80.0273
+  },
+  {
+    "filename": "org_secoora_flkeys_lka64_data.csv",
+    "latitude": 24.4374,
+    "longitude": -81.9114
+  },
+  {
+    "filename": "station-gp3-south-florida-progra_data.csv",
+    "latitude": 26.741,
+    "longitude": -82.42
+  },
+  {
+    "filename": "org_secoora_flkeys_lka17_data.csv",
+    "latitude": 24.4377,
+    "longitude": -81.9416
+  },
+  {
+    "filename": "org_secoora_rstsnca_caribsea_data.csv",
+    "latitude": 34.6069,
+    "longitude": -76.3141
+  },
+  {
+    "filename": "gov_usgs_nwis_02110500_data.csv",
+    "latitude": 33.912672,
+    "longitude": -78.715018
+  },
+  {
+    "filename": "org_secoora_flkeys_lkacm_data.csv",
+    "latitude": 24.6015,
+    "longitude": -81.1638
+  },
+  {
+    "filename": "diamondshoals-857_data.csv",
+    "latitude": 35.129601,
+    "longitude": -75.491997
+  },
+  {
+    "filename": "org_secoora_flkeys_lka01_data.csv",
+    "latitude": 24.4337,
+    "longitude": -81.9486
+  },
+  {
+    "filename": "gov_usgs_nwis_255327081275900_data.csv",
+    "latitude": 25.895389,
+    "longitude": -81.4555
+  },
+  {
+    "filename": "gov-nps-ever-jkyf1_data.csv",
+    "latitude": 25.05254,
+    "longitude": -80.90448
+  },
+  {
+    "filename": "myrtlebeach-729_data.csv",
+    "latitude": 33.722733,
+    "longitude": -78.77935
+  },
+  {
+    "filename": "org_secoora_rstsnca_fw_abrams_data.csv",
+    "latitude": 34.9903,
+    "longitude": -75.8009
+  },
+  {
+    "filename": "org_secoora_gacra_bn02_data.csv",
+    "latitude": 31.0757,
+    "longitude": -81.154
+  },
+  {
+    "filename": "org_secoora_bttbfa_a4_data.csv",
+    "latitude": 25.4557,
+    "longitude": -80.147
+  },
+  {
+    "filename": "org_secoora_tboff_cobcot1_data.csv",
+    "latitude": 28.3036,
+    "longitude": -82.7881
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa34a_data.csv",
+    "latitude": 24.673,
+    "longitude": -82.8862
+  },
+  {
+    "filename": "gov_usgs_nwis_023060013_data.csv",
+    "latitude": 28.020297,
+    "longitude": -82.454817
+  },
+  {
+    "filename": "gov_usgs_nwis_02310688_data.csv",
+    "latitude": 28.797483,
+    "longitude": -82.589822
+  },
+  {
+    "filename": "org_secoora_teq_mc23_data.csv",
+    "latitude": 27.2066,
+    "longitude": -80.2824
+  },
+  {
+    "filename": "org_secoora_tbhoga_am40_data.csv",
+    "latitude": 27.4748,
+    "longitude": -82.8614
+  },
+  {
+    "filename": "station-ami1-south-florida-progr_data.csv",
+    "latitude": 27.497,
+    "longitude": -82.751
+  },
+  {
+    "filename": "org_secoora_teq_emrv_data.csv",
+    "latitude": 26.8087,
+    "longitude": -80.052
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa02_data.csv",
+    "latitude": 24.668,
+    "longitude": -82.891
+  },
+  {
+    "filename": "gov_usgs_nwis_02310740_data.csv",
+    "latitude": 28.890535,
+    "longitude": -82.595657
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-004_data.csv",
+    "latitude": 31.1817,
+    "longitude": -81.5242
+  },
+  {
+    "filename": "station-15-5-south-florida-progr_data.csv",
+    "latitude": 24.592,
+    "longitude": -80.992
+  },
+  {
+    "filename": "myrtlebeach-723_data.csv",
+    "latitude": 33.649315,
+    "longitude": -78.849319
+  },
+  {
+    "filename": "station-29-5-south-florida-progr_data.csv",
+    "latitude": 25.227,
+    "longitude": -82.35
+  },
+  {
+    "filename": "gov_usgs_nwis_255151080371501_data.csv",
+    "latitude": 25.86415,
+    "longitude": -80.620833
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa36_data.csv",
+    "latitude": 24.6738,
+    "longitude": -82.8888
+  },
+  {
+    "filename": "sab_sed-134_data.csv",
+    "latitude": 31.094,
+    "longitude": -80.5
+  },
+  {
+    "filename": "org_secoora_hboi_ert13_data.csv",
+    "latitude": 27.3788,
+    "longitude": -80.2729
+  },
+  {
+    "filename": "station-uk_in-south-florida-prog_data.csv",
+    "latitude": 24.935,
+    "longitude": -80.565
+  },
+  {
+    "filename": "neuse-river-near-the-north-sh_data.csv",
+    "latitude": 35.0015,
+    "longitude": -76.8781
+  },
+  {
+    "filename": "station-20-south-florida-program_data.csv",
+    "latitude": 24.575,
+    "longitude": -81.418
+  },
+  {
+    "filename": "org_secoora_grnms_surtas05in_data.csv",
+    "latitude": 31.3675,
+    "longitude": -80.895
+  },
+  {
+    "filename": "org_secoora_btsnp_mr_in_s_data.csv",
+    "latitude": 27.5274,
+    "longitude": -82.6406
+  },
+  {
+    "filename": "org_secoora_ecb_mr3a_data.csv",
+    "latitude": 28.162,
+    "longitude": -80.582
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_07_data.csv",
+    "latitude": 24.9902,
+    "longitude": -80.4287
+  },
+  {
+    "filename": "gov_usgs_nwis_022907085_data.csv",
+    "latitude": 25.570917,
+    "longitude": -80.37875
+  },
+  {
+    "filename": "org_secoora_scan_psb_in_1_data.csv",
+    "latitude": 27.479,
+    "longitude": -82.6884
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_12_data.csv",
+    "latitude": 24.991,
+    "longitude": -80.4268
+  },
+  {
+    "filename": "gov_usgs_nwis_02246804_data.csv",
+    "latitude": 30.454942,
+    "longitude": -81.596889
+  },
+  {
+    "filename": "gov_usgs_nwis_02310743_data.csv",
+    "latitude": 28.894702,
+    "longitude": -82.593157
+  },
+  {
+    "filename": "gov_ornl_cdiac_cheeca_80w_25n_data.csv",
+    "latitude": 24.9,
+    "longitude": -80.62
+  },
+  {
+    "filename": "org_secoora_hboi_nfg2_data.csv",
+    "latitude": 27.2144,
+    "longitude": -80.2791
+  },
+  {
+    "filename": "org_secoora_scare_mr-01-07_data.csv",
+    "latitude": 32.6941,
+    "longitude": -79.7165
+  },
+  {
+    "filename": "gov_usgs_nwis_02310674_data.csv",
+    "latitude": 28.694709,
+    "longitude": -82.638989
+  },
+  {
+    "filename": "gov_usgs_nwis_021720710_data.csv",
+    "latitude": 32.780454,
+    "longitude": -79.923699
+  },
+  {
+    "filename": "org_secoora_flkeys_eshyd_data.csv",
+    "latitude": 24.489,
+    "longitude": -81.6664
+  },
+  {
+    "filename": "edu_ucsd_cdip_144_data.csv",
+    "latitude": 27.3446,
+    "longitude": -84.2748
+  },
+  {
+    "filename": "org_secoora_fscapea_my05_data.csv",
+    "latitude": 24.8109,
+    "longitude": -80.6885
+  },
+  {
+    "filename": "station-14-south-florida-program_data.csv",
+    "latitude": 24.675,
+    "longitude": -81.023
+  },
+  {
+    "filename": "station-ami8-south-florida-progr_data.csv",
+    "latitude": 27.228,
+    "longitude": -83.41
+  },
+  {
+    "filename": "org_secoora_teq_intdr_data.csv",
+    "latitude": 29.9031,
+    "longitude": -80.8003
+  },
+  {
+    "filename": "org_secoora_srfcea_tbn4_data.csv",
+    "latitude": 25.4296,
+    "longitude": -80.9666
+  },
+  {
+    "filename": "noaa_nos_co_ops_8725520_data.csv",
+    "latitude": 26.648,
+    "longitude": -81.871
+  },
+  {
+    "filename": "station-dt12-south-florida-progr_data.csv",
+    "latitude": 24.416,
+    "longitude": -83.001
+  },
+  {
+    "filename": "org_secoora_hboi_chicken_rock_data.csv",
+    "latitude": 34.6206,
+    "longitude": -76.1361
+  },
+  {
+    "filename": "station-ek_in-south-florida-prog_data.csv",
+    "latitude": 25.335,
+    "longitude": -80.224
+  },
+  {
+    "filename": "org_secoora_teq_swpo_data.csv",
+    "latitude": 27.1773,
+    "longitude": -80.1835
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa28_data.csv",
+    "latitude": 24.6723,
+    "longitude": -82.8895
+  },
+  {
+    "filename": "gov_usgs_nwis_02306000-1_data.csv",
+    "latitude": 28.02113,
+    "longitude": -82.451761
+  },
+  {
+    "filename": "org_secoora_teq_nfm5_data.csv",
+    "latitude": 27.2092,
+    "longitude": -80.2695
+  },
+  {
+    "filename": "org_secoora_teq_sfnp_data.csv",
+    "latitude": 27.1269,
+    "longitude": -80.2641
+  },
+  {
+    "filename": "station-41-south-florida-program_data.csv",
+    "latitude": 25.733,
+    "longitude": -81.575
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa40_data.csv",
+    "latitude": 24.6745,
+    "longitude": -82.8879
+  },
+  {
+    "filename": "sab_sed-143_data.csv",
+    "latitude": 31.135555,
+    "longitude": -80.193336
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-3_data.csv",
+    "latitude": 34.3006,
+    "longitude": -79.6357
+  },
+  {
+    "filename": "c12-water-velocity-wfs-central-b_data.csv",
+    "latitude": 27.504,
+    "longitude": -83.741
+  },
+  {
+    "filename": "org_secoora_srfcea_rbhw3_data.csv",
+    "latitude": 25.4614,
+    "longitude": -80.8666
+  },
+  {
+    "filename": "gov-nps-ever-bnkf1_data.csv",
+    "latitude": 25.08668,
+    "longitude": -80.51904
+  },
+  {
+    "filename": "fernandina-beach-4_data.csv",
+    "latitude": 30.6713,
+    "longitude": -81.4658
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa39_data.csv",
+    "latitude": 24.6746,
+    "longitude": -82.8887
+  },
+  {
+    "filename": "org_secoora_teq_pcbn_data.csv",
+    "latitude": 27.1747,
+    "longitude": -80.2616
+  },
+  {
+    "filename": "5-mile-a-1_data.csv",
+    "latitude": 34.10215,
+    "longitude": -77.750817
+  },
+  {
+    "filename": "edu_usf_marine_comps_c10_data.csv",
+    "latitude": 27.173,
+    "longitude": -82.924
+  },
+  {
+    "filename": "org_secoora_hboi_ert5_data.csv",
+    "latitude": 27.703,
+    "longitude": -80.3927
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-008_data.csv",
+    "latitude": 31.1002,
+    "longitude": -81.4681
+  },
+  {
+    "filename": "org_cormp_ilm3_data.csv",
+    "latitude": 33.9886,
+    "longitude": -77.361
+  },
+  {
+    "filename": "org_secoora_scan_okc_n_data.csv",
+    "latitude": 27.3254,
+    "longitude": -82.5665
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-20_data.csv",
+    "latitude": 32.6551,
+    "longitude": -80.3882
+  },
+  {
+    "filename": "station-12-south-florida-program_data.csv",
+    "latitude": 24.713,
+    "longitude": -80.832
+  },
+  {
+    "filename": "gov_usgs_nwis_022908205_data.csv",
+    "latitude": 25.338672,
+    "longitude": -80.913217
+  },
+  {
+    "filename": "org_secoora_fscapea_yaps_02_data.csv",
+    "latitude": 24.9892,
+    "longitude": -80.4313
+  },
+  {
+    "filename": "org_secoora_teq_sfgg_data.csv",
+    "latitude": 27.096,
+    "longitude": -80.2431
+  },
+  {
+    "filename": "pamlico-sound-at-ps1-modmon-1_data.csv",
+    "latitude": 35.1201,
+    "longitude": -76.47653
+  },
+  {
+    "filename": "org_secoora_scan_lb_in_n2_data.csv",
+    "latitude": 27.446,
+    "longitude": -82.6876
+  },
+  {
+    "filename": "org_secoora_scan_rng_sw_data.csv",
+    "latitude": 27.3292,
+    "longitude": -82.5564
+  },
+  {
+    "filename": "station-ek_mid-south-florida-pro_data.csv",
+    "latitude": 25.314,
+    "longitude": -80.194
+  },
+  {
+    "filename": "station-bg4-south-florida-progra_data.csv",
+    "latitude": 26.63,
+    "longitude": -82.557
+  },
+  {
+    "filename": "org_secoora_bttbfa_rl19_data.csv",
+    "latitude": 24.4652,
+    "longitude": -81.8952
+  },
+  {
+    "filename": "org_secoora_gacra_bnos09_data.csv",
+    "latitude": 31.0043,
+    "longitude": -81.0488
+  },
+  {
+    "filename": "nearshore-865_data.csv",
+    "latitude": 35.215599,
+    "longitude": -75.522903
+  },
+  {
+    "filename": "org_secoora_cmast_shelf_220_data.csv",
+    "latitude": 34.3121,
+    "longitude": -76.0805
+  },
+  {
+    "filename": "gov_usgs_nwis_02276877_data.csv",
+    "latitude": 26.985533,
+    "longitude": -80.6156
+  },
+  {
+    "filename": "gov_usgs_nwis_02326526_data.csv",
+    "latitude": 30.301316,
+    "longitude": -83.979608
+  },
+  {
+    "filename": "org_secoora_teq_thce_data.csv",
+    "latitude": 27.0055,
+    "longitude": -80.0673
+  },
+  {
+    "filename": "org_secoora_cmast_ar-285_data.csv",
+    "latitude": 34.559,
+    "longitude": -76.4365
+  },
+  {
+    "filename": "station-v4-south-florida-program_data.csv",
+    "latitude": 26.994,
+    "longitude": -82.684
+  },
+  {
+    "filename": "org_secoora_teq_slr3_data.csv",
+    "latitude": 27.2064,
+    "longitude": -80.1272
+  },
+  {
+    "filename": "org_secoora_noaaeemp_12_nt_data.csv",
+    "latitude": 17.7432,
+    "longitude": -64.6015
+  },
+  {
+    "filename": "org_secoora_flkeys_hfas10_data.csv",
+    "latitude": 24.6724,
+    "longitude": -82.8927
+  },
+  {
+    "filename": "station-dt10-south-florida-progr_data.csv",
+    "latitude": 24.55,
+    "longitude": -82.972
+  },
+  {
+    "filename": "cmsdock_data.csv",
+    "latitude": 34.14,
+    "longitude": -77.8625
+  },
+  {
+    "filename": "gov-nps-ever-trrf1_data.csv",
+    "latitude": 25.21712,
+    "longitude": -80.64957
+  },
+  {
+    "filename": "gov_usgs_nwis_285447082445100_data.csv",
+    "latitude": 28.911692,
+    "longitude": -82.747639
+  },
+  {
+    "filename": "noaa_nos_co_ops_8654467_data.csv",
+    "latitude": 35.208639,
+    "longitude": -75.704167
+  },
+  {
+    "filename": "org_secoora_scan_vin_out_s_data.csv",
+    "latitude": 27.1123,
+    "longitude": -82.4699
+  },
+  {
+    "filename": "org_secoora_scan_am_n_3_data.csv",
+    "latitude": 27.4972,
+    "longitude": -82.6936
+  },
+  {
+    "filename": "org_secoora_flkeys_rha04_data.csv",
+    "latitude": 24.4939,
+    "longitude": -83.1011
+  },
+  {
+    "filename": "org_secoora_scan_lb_in_m_data.csv",
+    "latitude": 27.4438,
+    "longitude": -82.687
+  },
+  {
+    "filename": "gov_usgs_nwis_02277100_data.csv",
+    "latitude": 27.2048,
+    "longitude": -80.258783
+  },
+  {
+    "filename": "org_secoora_lka15_data.csv",
+    "latitude": 24.4383,
+    "longitude": -81.9346
+  },
+  {
+    "filename": "org_secoora_grnms_08altin_data.csv",
+    "latitude": 31.3826,
+    "longitude": -80.8397
+  },
+  {
+    "filename": "gov-nps-ever-tpef1_data.csv",
+    "latitude": 25.41012,
+    "longitude": -80.96395
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-gpd-rkm_-1_data.csv",
+    "latitude": 34.0728,
+    "longitude": -79.5352
+  },
+  {
+    "filename": "org_secoora_gacra_bnos04_data.csv",
+    "latitude": 30.9852,
+    "longitude": -80.9815
+  },
+  {
+    "filename": "org_secoora_hboi_fpl1_data.csv",
+    "latitude": 27.4715,
+    "longitude": -80.2842
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa42_data.csv",
+    "latitude": 24.6755,
+    "longitude": -82.8882
+  },
+  {
+    "filename": "org_secoora_teq_18ho_data.csv",
+    "latitude": 27.0877,
+    "longitude": -80.0319
+  },
+  {
+    "filename": "station-ws-south-florida-program_data.csv",
+    "latitude": 24.476,
+    "longitude": -81.717
+  },
+  {
+    "filename": "edu_ucsd_cdip_244_data.csv",
+    "latitude": 24.407167,
+    "longitude": -81.966833
+  },
+  {
+    "filename": "gov_usgs_nwis_021989773_data.csv",
+    "latitude": 32.080417,
+    "longitude": -81.081361
+  },
+  {
+    "filename": "org_secoora_ksc_bc3_data.csv",
+    "latitude": 28.5905,
+    "longitude": -80.7118
+  },
+  {
+    "filename": "org_secoora_gaara_sav02_data.csv",
+    "latitude": 31.9111,
+    "longitude": -80.7866
+  },
+  {
+    "filename": "edu_ucsd_cdip_430_data.csv",
+    "latitude": 36.2584,
+    "longitude": -75.5934
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-edisto-r-7_data.csv",
+    "latitude": 32.5815,
+    "longitude": -80.3942
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa16_data.csv",
+    "latitude": 24.6701,
+    "longitude": -82.8909
+  },
+  {
+    "filename": "station-56-south-florida-program_data.csv",
+    "latitude": 25.35,
+    "longitude": -81.228
+  },
+  {
+    "filename": "org_secoora_scan_rng_ne_data.csv",
+    "latitude": 27.3336,
+    "longitude": -82.5564
+  },
+  {
+    "filename": "org_secoora_teq_pwrn_data.csv",
+    "latitude": 29.9415,
+    "longitude": -81.0977
+  },
+  {
+    "filename": "station-dt3-south-florida-progra_data.csv",
+    "latitude": 24.691,
+    "longitude": -83.184
+  },
+  {
+    "filename": "station-p1-south-florida-program_data.csv",
+    "latitude": 25.01,
+    "longitude": -80.477
+  },
+  {
+    "filename": "noaa_nos_co_ops_8729840_data.csv",
+    "latitude": 30.404389,
+    "longitude": -87.211194
+  },
+  {
+    "filename": "org_secoora_hboi_shelf_220_data.csv",
+    "latitude": 34.3121,
+    "longitude": -76.0805
+  },
+  {
+    "filename": "gov_usgs_nwis_02310752_data.csv",
+    "latitude": 28.901556,
+    "longitude": -82.645806
+  },
+  {
+    "filename": "org_secoora_bttpertar_ocean_reef_data.csv",
+    "latitude": 25.2726,
+    "longitude": -80.2876
+  },
+  {
+    "filename": "gov_usgs_nwis_022908295_data.csv",
+    "latitude": 25.467978,
+    "longitude": -80.854528
+  },
+  {
+    "filename": "gov_usgs_nwis_023060003_data.csv",
+    "latitude": 28.02113,
+    "longitude": -82.452317
+  },
+  {
+    "filename": "gov_usgs_nwis_02323502_data.csv",
+    "latitude": 29.589125,
+    "longitude": -82.93318
+  },
+  {
+    "filename": "neuse-river-at-marker-17-modm_data.csv",
+    "latitude": 35.02465,
+    "longitude": -76.96925
+  },
+  {
+    "filename": "org_secoora_fscapea_my10_data.csv",
+    "latitude": 24.811,
+    "longitude": -80.6852
+  },
+  {
+    "filename": "org_secoora_gadnrsss_sss-011_data.csv",
+    "latitude": 31.1322,
+    "longitude": -81.4225
+  },
+  {
+    "filename": "gov_usgs_nwis_301124081395901_data.csv",
+    "latitude": 30.190241,
+    "longitude": -81.666205
+  },
+  {
+    "filename": "org_secoora_flkeys_rhab_data.csv",
+    "latitude": 24.495,
+    "longitude": -83.1275
+  },
+  {
+    "filename": "gov_usgs_nwis_02310678_data.csv",
+    "latitude": 28.799705,
+    "longitude": -82.588711
+  },
+  {
+    "filename": "org_secoora_fscapea_ly03_data.csv",
+    "latitude": 24.5759,
+    "longitude": -81.498
+  },
+  {
+    "filename": "cap2wave-capers-nearshore-wave_data.csv",
+    "latitude": 32.8016,
+    "longitude": -79.6188
+  },
+  {
+    "filename": "org_secoora_flkeys_mrq03a_data.csv",
+    "latitude": 24.6101,
+    "longitude": -82.2299
+  },
+  {
+    "filename": "edu_ucsd_cdip_134_data.csv",
+    "latitude": 27.55135,
+    "longitude": -80.217283
+  },
+  {
+    "filename": "org_secoora_ksc_cs3_data.csv",
+    "latitude": 28.3979,
+    "longitude": -80.4241
+  },
+  {
+    "filename": "station-dt6-south-florida-progra_data.csv",
+    "latitude": 24.433,
+    "longitude": -83.233
+  },
+  {
+    "filename": "station-63-south-florida-program_data.csv",
+    "latitude": 25.167,
+    "longitude": -81.2
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-savannah-4_data.csv",
+    "latitude": 32.6617,
+    "longitude": -81.4077
+  },
+  {
+    "filename": "myrtlebeach-722_data.csv",
+    "latitude": 33.648701,
+    "longitude": -78.848999
+  },
+  {
+    "filename": "el-portal-1_data.csv",
+    "latitude": 25.85354,
+    "longitude": -80.19307
+  },
+  {
+    "filename": "org_secoora_scan_np_out_s_shoal_data.csv",
+    "latitude": 27.328,
+    "longitude": -82.588
+  },
+  {
+    "filename": "station-30-5-south-florida-progr_data.csv",
+    "latitude": 25.572,
+    "longitude": -82.075
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa03_data.csv",
+    "latitude": 24.668,
+    "longitude": -82.8903
+  },
+  {
+    "filename": "gov_usgs_nwis_02310700_data.csv",
+    "latitude": 28.785261,
+    "longitude": -82.617878
+  },
+  {
+    "filename": "station-66-south-florida-program_data.csv",
+    "latitude": 25.068,
+    "longitude": -81.108
+  },
+  {
+    "filename": "gov_usgs_nwis_021989715_data.csv",
+    "latitude": 32.116083,
+    "longitude": -81.128333
+  },
+  {
+    "filename": "sab_sed-152_data.csv",
+    "latitude": 32.58889,
+    "longitude": -78.690002
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa05_data.csv",
+    "latitude": 24.6687,
+    "longitude": -82.8919
+  },
+  {
+    "filename": "org_secoora_scdnrdfp_sc-cooper_r-2_data.csv",
+    "latitude": 33.2441,
+    "longitude": -79.9915
+  },
+  {
+    "filename": "org_secoora_mmf_26_data.csv",
+    "latitude": 27.0515,
+    "longitude": -80.1025
+  },
+  {
+    "filename": "org_secoora_ksc_br6_data.csv",
+    "latitude": 28.5126,
+    "longitude": -80.6127
+  },
+  {
+    "filename": "org_secoora_14buoy_data.csv",
+    "latitude": 34.3018,
+    "longitude": -76.3995
+  },
+  {
+    "filename": "neuse-river-at-marker-38-modm_data.csv",
+    "latitude": 35.11375,
+    "longitude": -77.03525
+  },
+  {
+    "filename": "org_secoora_grnms_34altout_data.csv",
+    "latitude": 31.3969,
+    "longitude": -80.8848
+  },
+  {
+    "filename": "org_secoora_flkeys_hfa06_data.csv",
+    "latitude": 24.6687,
+    "longitude": -82.891
+  },
+  {
+    "filename": "gov_usgs_nwis_02299730_data.csv",
+    "latitude": 27.118503,
+    "longitude": -82.451425
+  },
+  {
+    "filename": "org_secoora_lka38_data.csv",
+    "latitude": 24.4415,
+    "longitude": -81.9342
+  },
+  {
+    "filename": "org_secoora_teq_cesc_data.csv",
+    "latitude": 27.2064,
+    "longitude": -80.1911
+  },
+  {
+    "filename": "edu_ucsd_cdip_265_data.csv",
+    "latitude": 26.001,
+    "longitude": -80.096
+  },
+  {
+    "filename": "station-6-5-south-florida-progra_data.csv",
+    "latitude": 25.049,
+    "longitude": -80.287
+  },
+  {
+    "filename": "org_secoora_teq_mcso_data.csv",
+    "latitude": 26.7984,
+    "longitude": -80.0419
+  },
+  {
+    "filename": "org_secoora_teq_rbso_data.csv",
+    "latitude": 27.2022,
+    "longitude": -80.2607
+  },
+  {
+    "filename": "org_secoora_grnms_fs17_data.csv",
+    "latitude": 31.399,
+    "longitude": -80.9021
+  },
+  {
+    "filename": "org_secoora_flkeys_lka06_data.csv",
+    "latitude": 24.4304,
+    "longitude": -81.9388
+  },
+  {
+    "filename": "org_secoora_hboi_wbne_data.csv",
+    "latitude": 27.7655,
+    "longitude": -80.4198
+  },
+  {
+    "filename": "gulf-star-marina_data.csv",
+    "latitude": 26.4595,
+    "longitude": -81.9518
+  },
+  {
+    "filename": "org_secoora_ksc_br5_data.csv",
+    "latitude": 28.5144,
+    "longitude": -80.6113
+  },
+  {
+    "filename": "org_secoora_fscapea_ly10_data.csv",
+    "latitude": 24.5775,
+    "longitude": -81.495
+  },
+  {
+    "filename": "gov_usgs_nwis_02313700_data.csv",
+    "latitude": 29.204134,
+    "longitude": -82.769001
+  },
+  {
+    "filename": "org_secoora_teq_ropo_data.csv",
+    "latitude": 26.7217,
+    "longitude": -80.0475
+  },
+  {
+    "filename": "indian-river-lagoon-fort-pierce-_data.csv",
+    "latitude": 27.475555,
+    "longitude": -80.326607
+  },
+  {
+    "filename": "station-56b-south-florida-progra_data.csv",
+    "latitude": 25.35,
+    "longitude": -81.227
+  }
+]

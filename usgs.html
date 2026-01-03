@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>USGS Stations: Temperature Data (SC, GA, NC, FL)</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  <style>
+    html, body { height: 100%; margin: 0; padding: 0; }
+    #map { width: 100%; height: calc(100vh - 50px); }
+    .header {
+      height: 50px;
+      display: flex;
+      align-items: center;
+      padding: 0 10px;
+      background: #f8f9fa;
+      border-bottom: 1px solid #ddd;
+      font-family: Arial, sans-serif;
+    }
+    .header h3 { margin: 0; margin-right: 20px; }
+    .filter-controls {
+      display: flex;
+      align-items: center;
+      gap: 15px;
+    }
+    .filter-controls label {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      cursor: pointer;
+    }
+    .filter-controls input[type="checkbox"] {
+      width: 16px;
+      height: 16px;
+      cursor: pointer;
+    }
+    .state-label {
+      padding: 2px 6px;
+      border-radius: 3px;
+      font-weight: bold;
+      font-size: 12px;
+    }
+    .state-SC { background: #3182bd; color: white; }
+    .state-GA { background: #e6550d; color: white; }
+    .state-NC { background: #31a354; color: white; }
+    .state-FL { background: #756bb1; color: white; }
+    .legend {
+      background: white;
+      padding: 6px 8px;
+      font: 12px/14px Arial, Helvetica, sans-serif;
+      box-shadow: 0 0 15px rgba(0,0,0,0.2);
+      border-radius: 5px;
+    }
+    .legend i {
+      width: 12px;
+      height: 12px;
+      float: left;
+      margin-right: 8px;
+      opacity: 0.8;
+    }
+    .station-count {
+      font-size: 12px;
+      color: #666;
+      margin-left: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h3>USGS Stations with Temperature Data</h3>
+    <div class="filter-controls">
+      <label><input type="checkbox" id="filter-SC" checked><span class="state-label state-SC">SC</span></label>
+      <label><input type="checkbox" id="filter-GA" checked><span class="state-label state-GA">GA</span></label>
+      <label><input type="checkbox" id="filter-NC" checked><span class="state-label state-NC">NC</span></label>
+      <label><input type="checkbox" id="filter-FL" checked><span class="state-label state-FL">FL</span></label>
+      <span class="station-count" id="station-count"></span>
+    </div>
+  </div>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Multi-state station data -->
+  <script src="multi_state_stations.js"></script>
+  <!-- Pre-fetched temperature cache built by build_temp_cache.py -->
+  <script src="multi_state_temp_cache.js"></script>
+
+  <script>
+    if (typeof stationData === 'undefined') {
+      alert('Station data (multi_state_stations.js) not found.');
+    }
+
+    // State colors
+    var stateColors = {
+      'SC': '#3182bd',
+      'GA': '#e6550d',
+      'NC': '#31a354',
+      'FL': '#756bb1'
+    };
+
+    var map = L.map('map').setView([31.5, -82.0], 6);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    var bounds = [];
+    var tempCache = {};   // site_no -> { labels: [...], temps: [...] }
+    var tempCharts = {};  // site_no -> Chart instance
+
+    function renderTempChart(siteNo, canvas, statusDiv, labels, temps) {
+      if (!canvas || !statusDiv) return;
+      if (!labels.length) {
+        statusDiv.textContent = 'No temperature data available from NWIS DV service.';
+        return;
+      }
+
+      if (tempCharts[siteNo]) {
+        tempCharts[siteNo].destroy();
+      }
+
+      var ctx = canvas.getContext('2d');
+      tempCharts[siteNo] = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [{
+            label: 'Water temperature (\u00b0C)',
+            data: temps,
+            borderColor: '#d95f0e',
+            backgroundColor: 'rgba(217,95,14,0.15)',
+            pointRadius: 0,
+            borderWidth: 1,
+            fill: true
+          }]
+        },
+        options: {
+          responsive: false,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { display: false }
+          },
+          scales: {
+            x: { ticks: { maxTicksLimit: 6 } },
+            y: { title: { display: true, text: '\u00b0C' } }
+          }
+        }
+      });
+
+      statusDiv.textContent = 'Daily mean temperature from ' + labels[0] +
+        ' to ' + labels[labels.length - 1] + ' (NWIS DV).';
+    }
+
+    // Load temperature series for a station, using static cache or live fetch
+    function loadTempSeries(station, canvasId, statusId) {
+      var siteNo = station.site_no;
+      var canvas = document.getElementById(canvasId);
+      var statusDiv = document.getElementById(statusId);
+      if (!canvas || !statusDiv || !siteNo) return;
+
+      // In-memory cache for this browser session
+      if (tempCache[siteNo]) {
+        var cached = tempCache[siteNo];
+        renderTempChart(siteNo, canvas, statusDiv, cached.labels, cached.temps);
+        return;
+      }
+
+      // Try to use the static, pre-fetched cache (no live network call)
+      if (typeof staticTempCache !== 'undefined' && staticTempCache[siteNo]) {
+        var pre = staticTempCache[siteNo] || {};
+        var labelsFromStatic = pre.labels || [];
+        var tempsFromStatic = pre.temps || [];
+        tempCache[siteNo] = { labels: labelsFromStatic, temps: tempsFromStatic };
+        renderTempChart(siteNo, canvas, statusDiv, labelsFromStatic, tempsFromStatic);
+        return;
+      }
+
+      // If we already know there is no DV temperature data for this site
+      if (typeof staticTempNoDv !== 'undefined' &&
+          Array.isArray(staticTempNoDv) &&
+          staticTempNoDv.indexOf(siteNo) !== -1) {
+        statusDiv.textContent =
+          'No daily temperature (DV, 00010) data available from USGS for this station.';
+        return;
+      }
+
+      // Use the full temperature period from the station metadata
+      var start = station.temp_begin;
+      var end = station.temp_end;
+      if (!start || !end) {
+        statusDiv.textContent =
+          'No temperature date range available to request data for this station.';
+        return;
+      }
+
+      statusDiv.textContent = 'Loading daily temperature (NWIS DV)...';
+
+      var url = 'https://waterservices.usgs.gov/nwis/dv/?format=json&sites=' +
+                encodeURIComponent(siteNo) +
+                '&parameterCd=00010&startDT=' + encodeURIComponent(start) +
+                '&endDT=' + encodeURIComponent(end);
+
+      fetch(url)
+        .then(function (resp) {
+          if (!resp.ok) {
+            statusDiv.textContent = 'HTTP ' + resp.status + ' while loading temperature data.';
+            throw new Error('HTTP ' + resp.status);
+          }
+          return resp.json();
+        })
+        .then(function (data) {
+          try {
+            var tsArr = (data && data.value && data.value.timeSeries) || [];
+            if (!tsArr.length || !tsArr[0].values || !tsArr[0].values.length) {
+              statusDiv.textContent = 'No daily temperature data returned for this site.';
+              return;
+            }
+            var vals = tsArr[0].values[0].value || [];
+            var labels = [];
+            var temps = [];
+            vals.forEach(function (v) {
+              if (!v || v.value === undefined || v.value === null || v.value === '') return;
+              var dt = v.dateTime || '';
+              labels.push(dt.substring(0, 10));
+              temps.push(parseFloat(v.value));
+            });
+
+            tempCache[siteNo] = { labels: labels, temps: temps };
+            renderTempChart(siteNo, canvas, statusDiv, labels, temps);
+          } catch (e) {
+            console.error(e);
+            statusDiv.textContent = 'Error parsing temperature data.';
+          }
+        })
+        .catch(function (err) {
+          console.error(err);
+          var msg = (err && err.message) ? err.message : String(err);
+          statusDiv.textContent = 'Error loading temperature data: ' + msg;
+        });
+    }
+
+    // Store markers by state for filtering
+    var markersByState = { 'SC': [], 'GA': [], 'NC': [], 'FL': [] };
+    var allMarkers = [];
+
+    function fmtRange(b, e) {
+      if (!b && !e) return 'n/a';
+      if (b && !e) return b + ' - ?';
+      if (!b && e) return '? - ' + e;
+      return b + ' - ' + e;
+    }
+
+    function createMarker(s) {
+      if (!s.temp_begin || !s.temp_end) return null;
+      if (s.lat === null || s.lon === null) return null;
+
+      var state = s.state || 'SC';
+      var color = stateColors[state] || '#3182bd';
+      var marker = L.circleMarker([s.lat, s.lon], {
+        radius: 5,
+        color: color,
+        fillColor: color,
+        fillOpacity: 0.85,
+        weight: 1
+      });
+
+      var tooltipText = '[' + state + '] ' + (s.site_no || '') + ' - ' + (s.station_name || '');
+      marker.bindTooltip(tooltipText, { sticky: true });
+
+      var canvasId = 'tempChart-' + (s.site_no || '');
+      var statusId = 'tempStatus-' + (s.site_no || '');
+
+      var popupHtml = '' +
+        '<b>' + (s.station_name || '') + '</b><br/>' +
+        'USGS ' + (s.site_no || '') + ' (' + state + ')<br/><br/>' +
+        '<b>Temperature (00010):</b> ' + fmtRange(s.temp_begin, s.temp_end) + '<br/>' +
+        '<div style="margin-top:6px; max-width:360px;">' +
+          '<div id="' + statusId + '" style="font-size:11px;color:#555;">Click marker to load daily temperature time series...</div>' +
+          '<div style="height:180px;">' +
+            '<canvas id="' + canvasId + '" width="340" height="160"></canvas>' +
+          '</div>' +
+        '</div>';
+
+      marker.bindPopup(popupHtml);
+
+      marker.on('popupopen', function () {
+        loadTempSeries(s, canvasId, statusId);
+      });
+
+      marker.stationData = s;
+      return marker;
+    }
+
+    // Create all markers
+    (stationData || []).forEach(function (s) {
+      var marker = createMarker(s);
+      if (marker) {
+        var state = s.state || 'SC';
+        if (markersByState[state]) {
+          markersByState[state].push(marker);
+        }
+        allMarkers.push(marker);
+      }
+    });
+
+    // Update station count display
+    function updateStationCount() {
+      var count = 0;
+      ['SC', 'GA', 'NC', 'FL'].forEach(function(state) {
+        if (document.getElementById('filter-' + state).checked) {
+          count += markersByState[state].length;
+        }
+      });
+      document.getElementById('station-count').textContent = count + ' stations shown';
+    }
+
+    // Apply filters
+    function applyFilters() {
+      ['SC', 'GA', 'NC', 'FL'].forEach(function(state) {
+        var checked = document.getElementById('filter-' + state).checked;
+        markersByState[state].forEach(function(marker) {
+          if (checked) {
+            marker.addTo(map);
+          } else {
+            map.removeLayer(marker);
+          }
+        });
+      });
+      updateStationCount();
+    }
+
+    // Add event listeners to checkboxes
+    ['SC', 'GA', 'NC', 'FL'].forEach(function(state) {
+      document.getElementById('filter-' + state).addEventListener('change', applyFilters);
+    });
+
+    // Initial display
+    applyFilters();
+
+    // Fit bounds to all stations
+    var bounds = allMarkers.map(function(m) { return m.getLatLng(); });
+    if (bounds.length > 0) {
+      map.fitBounds(bounds, { padding: [20, 20] });
+    }
+
+    // Add legend
+    var legend = L.control({ position: 'bottomright' });
+    legend.onAdd = function(map) {
+      var div = L.DomUtil.create('div', 'legend');
+      div.innerHTML = '<b>States</b><br>';
+      ['SC', 'GA', 'NC', 'FL'].forEach(function(state) {
+        div.innerHTML += '<i style="background:' + stateColors[state] + '"></i> ' + state + '<br>';
+      });
+      return div;
+    };
+    legend.addTo(map);
+  </script>
+</body>
+</html>

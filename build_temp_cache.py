@@ -4,19 +4,19 @@ import time
 import urllib.request
 import urllib.error
 
-SC_STATIONS_JS = "sc_usgs_stations_wl_q_temp.js"
-OUT_JS = "sc_usgs_temp_cache.js"
+STATIONS_JS = "multi_state_stations.js"
+OUT_JS = "multi_state_temp_cache.js"
 
 
 def load_stations():
-    """Parse sc_usgs_stations_wl_q_temp.js and return the scStations list."""
-    with open(SC_STATIONS_JS, "r", encoding="utf-8") as f:
+    """Parse multi_state_stations.js and return the stationData list."""
+    with open(STATIONS_JS, "r", encoding="utf-8") as f:
         text = f.read()
 
-    prefix = "var scStations ="
+    prefix = "var stationData ="
     idx = text.find(prefix)
     if idx == -1:
-        raise RuntimeError("Could not find 'var scStations =' in %s" % SC_STATIONS_JS)
+        raise RuntimeError("Could not find 'var stationData =' in %s" % STATIONS_JS)
 
     s = text[idx + len(prefix):].strip()
     if s.endswith(";"):
